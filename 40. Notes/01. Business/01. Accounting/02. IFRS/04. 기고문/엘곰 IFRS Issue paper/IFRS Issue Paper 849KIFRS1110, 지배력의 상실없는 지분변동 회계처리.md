@@ -1,0 +1,60 @@
+---
+title: "[IFRS Issue Paper 849]KIFRS1110, 지배력의 상실없는 지분변동 회계처리"
+acounting_standard: "IFRS"
+document_type: "기고문"
+source: "엘곰"
+url: "https://contents.premium.naver.com/busymoon/kicpakpmg/contents/250618163325460tn"
+---
+![](https://n2.news.naver.com/l.gif?type=content)**849**
+
+**● 지배력의 상실없는 지분변동 회계처리**
+
+> 23\. 지배기업이 소유한 종속기업 지분이 변동되더라도 지배기업이 종속기업에 대한 지배력을 상실하지 않는다면, 그것은 자본거래(즉, 소유주로서 자격을 행사하는 소유주와의 거래)이다.
+> 
+> ​
+> 
+> 비지배지분 보유 비율의 변동
+> 
+> B96. 비지배지분이 보유한 자본의 비율이 변동된 경우 보고기업은 종속기업에 대한 상대적 지분 변동을 반영하여 지배지분과 비지배지분의 장부금액을 조정한다. 보고기업은 비지배지분의 조정금액과 지급하거나 수취한 대가의 공정가치 차이를 자본으로 직접 인식하고 지배기업의 소유주에게 귀속시킨다.
+> 
+> KIFRS1110.연결재무제표
+
+모회사의 지분율은 지배력을 상실하지 않고도 변동할 수 있다. 예를 들어, **모회사가 비지배지분(NCI)으로부터 주식을 매입하거나 NCI에 주식을 매도하는 경우**, 종속기업이 NCI가 보유한 주식을 상환하여 NCI의 지분율이 변동되는 경우, 혹은 종속기업이 NCI에 신주를 발행하여 NCI의 지분율이 변동되는 경우 등이 이에 해당한다.
+
+​
+
+모회사가 종속기업에 대한 지분을 증가 또는 감소시키되 지배력을 유지하는 거래에서는 종속기업의 자산(예: 영업권 포함)이나 부채에는 변동이 없다.(IFRS 10.BCZ173 참조) **지분율의 증가 또는 감소는 손익 인식이 아닌, 지배지분과 비지배지분 간 자본금액의 조정을 통해 회계 처리된**다.(IFRS 10.23, 10.24, B96 참조)
+
+​
+
+**■ 기타포괄손익(OCI)의 귀속 변경(Reattribution of OCI)**
+
+​
+
+**지배력을 상실하지 않은 종속기업의 일부 처분**이 있었고 그 처분이 해외사업체를 포함하는 경우, OCI에 인식된 누적 환산차이 누계액 중 해당 비율에 해당하는 금액은 해당 해외사업체 내의 **비지배지분(NCI)에게 재귀속**된다
+
+​
+
+만약 기업이 이후에 종속기업에 대한 잔여 지분을 처분하는 경우, 이전에 NCI에게 귀속되었던 환산차이**(지배력을 상실하지 않는** 소유지분 변동 시점의 재귀속 포함)는 제거된다(즉, 나머지 NCI 잔액과 함께 제거되며), 그러나 별도로 **당기손익으로 재분류되지는 않는다**.\[IAS 21.48B\] 즉, **지배력을 상실하는 경우에는 지배력 상실 직전까지 지배지분에 귀속된 환산차이만이 당기손익으로 재분류**된다. \[IAS 21.48\]
+
+​
+
+비록 IFRS 10이나 IAS 21에서 명시적으로 다루고 있지는 않지만, IASB는 IFRS는 기타포괄손익(OCI)에 인식된 기타 항목들에 대해서도 귀속 변경을 요구함을 명확히 하였다. 2009년 5월 IASB Update는 “종속기업에 대한 소유지분이 변동되나 **지배력을 상실하지 않는 경우, 모기업은 기타포괄손익을 모기업 소유주와 비지배지분 간에 재귀속시켜야 한다.**” 고 언급하였다.
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 100.0%; height: 129.0px;  background-color: #bdfbfa;"><div><p style=""><span style="">(source ; EY, International gaap 2025)</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">■ </span><span style=""><b>지배력을 상실하지 않는 지분율 감소 시 기타포괄손익(OCI)의 귀속 변경 회계처리</b></span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">모회사는 순자산 CU4,000,000을 보유한 100% 종속기업을 보유하고 있으며, 해외사업 관련 환산이익으로 인식된 누적 OCI가 CU1,000,000 존재한다. 이 종속기업에 대해서는 영업권이 인식되어 있지 않다.</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">모회사는 </span><span style=""><b>종속기업 지분 10%를 CU500,000에 매각하였으며 지배력을 상실하지 않았다.</b></span><span style=""> 비지배지분(NCI)의 장부금액은 CU400,000으로, 이 중 CU100,000(즉, 전체 OCI CU1,000,000의 10%)는 해외사업 환산차이에 해당하는 OCI로서 NCI에 재귀속된 금액이다.</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">모회사는 아래와 같이 자본 내에서 해당 거래를 회계처리하였다.</span></p></div></td></tr></tbody></table>
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">차변</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">금액(CU'000)</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">대변</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">금액(CU'000)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">현금</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">500</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">모회사의 기타포괄손익 내역 감소</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">200</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">모회사의 OCI 몫 감소 (CU1,000,000 × 10%)</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">100</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">NCI의 OCI 몫 증가 (CU1,000,000 × 10%)</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">100</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">​</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">NCI(OCI 제외) 증가 = (CU4,000,000 × 10%) - (CU1,000,000 × 10%)</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">300</span></p></div></td></tr></tbody></table>
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 100.0%; height: 129.0px;  background-color: #bdfbfa;"><div><p style=""><span style="">(source ; EY, International gaap 2025)</span></p></div><div><p style=""><span style=""><b>​</b></span></p></div><div><p style=""><span style=""><b>■ 지배력을 상실하지 않는 지분율 증가 시 기타포괄손익(OCI)의 귀속 변경 회계처리</b></span></p></div><div><p style=""><span style=""><b>​</b></span></p></div><div><p style=""><span style="">모회사는 순자산 CU4,000,000을 보유한 종속기업의 80% 지분을 보유하고 있으며, 해당 종속기업에 대해서는 영업권이 인식되어 있지 않다. 비지배지분(NCI) 20%의 장부금액은 CU800,000이며, 그 중 CU200,000은 해외사업 환산차이로 인한 총 OCI CU1,000,000 중 NCI 몫을 나타낸다.</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">모회사는 종속기업의 추가 지분 10%를 CU500,000에 매입하여 총 지분율을 90%로 증가시켰다. 이후 비지배지분의 장부금액은 CU400,000으로 감소하였으며, 그 중 CU100,000은 (총 OCI CU1,000,000의 10%)은 환산차이 중 NCI에서 모회사로 재귀속된 금액이다(아래 분개 참조).</span></p></div><div><p style=""><span style="">모회사는 아래와 같이 자본 내에서 해당 거래를 회계처리하였다:</span></p></div></td></tr></tbody></table>
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">차변</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">금액(CU'000)</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">대변</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">금액(CU'000)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="color:#003960;">NCI의 OCI 몫 감소 (CU1,000,000 × 10%)</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="color:#003960;">100</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="color:#003960;">모회사의 OCI 몫 증가 (CU1,000,000 × 10%)</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="color:#003960;">100</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="color:#003960;">NCI의 OCI 외 항목 감소:((CU800,000 × 10% ÷ 20%) − (CU1,000,000 × 10%))</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="color:#003960;">300</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="color:#003960;">현금</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="color:#003960;">500</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="color:#003960;">모회사의 기타 자본 항목 감소</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="color:#003960;">200</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="color:#003960;">​</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="color:#003960;">​</span></p></div></td></tr></tbody></table>
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 100.0%; height: 129.0px;  background-color: #bdfbfa;"><div><p style=""><span style="">(source ; EY, International gaap 2025)</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">■ </span><span style=""><b>지배력 상실 시 재귀속된 환산차이의 재분류 회계처리</b></span></p></div><div><p style=""><span style=""><b>​</b></span></p></div><div><p style=""><span style="">위 두 사례와 동일한 사실관계를 가정한다. 즉, 모회사는 현재 순자산 CU4,000,000을 보유한 종속기업의 지분 90%를 보유하고 있으며, 해당 종속기업에 대해 영업권은 인식되어 있지 않다. 비지배지분(NCI) 10%의 장부금액은 CU400,000이고, 그 중 CU100,000은 외화환산이익과 관련된 총 OCI CU1,000,000 중 NCI에 재귀속된 금액이다.</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">이후, 모회사는 이 종속기업에 대한 보유지분 90% 전부를 CU4,700,000에 처분하였다. 예시 단순화를 위하여, 매각 시점까지 순자산이나 OCI에 변동은 없었다고 가정한다.</span></p></div><div><p style=""><span style="">모회사는 아래와 같이 해당 거래를 회계처리하였다:</span></p></div></td></tr></tbody></table>
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">차변</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">금액(CU'000)</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">대변</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">금액(CU'000)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">처분대금 수령 (현금)</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">4,700</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">종속기업 순자산 제거</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">4,000</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">NCI 제거</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">400</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">종속기업 처분이익(모회사 귀속분)</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">2,000</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">모회사의 OCI 몫 재분류 (CU1,000,000 × 90%)</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">900</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">​</span></p></div></td></tr></tbody></table>
+
+● View & Opinion
+
+​
+
+위 거래시 발생하는 이연법인세 회계처리에 대해서는 Issue 850에서 논의한다.

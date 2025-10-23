@@ -1,0 +1,112 @@
+---
+title: "[IFRS Issue Paper 717]KIFRS1103, 역합병시 비지지배지분"
+acounting_standard: "IFRS"
+document_type: "기고문"
+source: "엘곰"
+url: "https://contents.premium.naver.com/busymoon/kicpakpmg/contents/250519180803796oy"
+---
+![](https://n2.news.naver.com/l.gif?type=content)**717**
+
+**● 역취득 시 비지배지분 회계처리**
+
+**​**
+
+**▶ IFRS Issue 714와 715와 공통 Example 사용**
+
+**​**
+
+[**\[IFRS Issue Paper 714\] 역취득(reverse acquisition)시 영업권 산정**](https://contents.premium.naver.com/busymoon/kicpakpmg/contents/250519113454906no)
+
+[![](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fscs-phinf.pstatic.net%2FMjAyNTA1MTlfMTk4%2FMDAxNzQ3NjIxODEwOTkz.HOMb9kuQGeir_uhC1QlZlDI5Evg81ZlNwcsGDRZN6MUg.HgZy01Ww8b0p0H5OzW9DQ_fj5_pJyeRdO1OvRBYwtJAg.JPEG%2FFB_IMG_1747455912350.jpg%3Ftype%3Dw800%22&type=ff500_300)](https://contents.premium.naver.com/busymoon/kicpakpmg/contents/250519113454906no)[
+
+**\[IFRS Issue Paper 714\] 역취득(reverse acquisition)시 영업권 산정**
+
+714 ●역취득에서 영업권 측정 ■ 기본 사례 (IFRS Issue 713과 연결되는 사례로 Fact Pattern이 동일) ■ 회계적 피취득자(Enitity A)와 회계적 취득자(Entity B)의 취득일 시점의 재무상태 ■ 회계적 피취득자(Enitity A)와
+
+contents.premium.naver.com
+
+](https://contents.premium.naver.com/busymoon/kicpakpmg/contents/250519113454906no)
+
+**​**[**\[IFRS Issue Paper 715\] 역취득시 연결재무제표 작성 과정**](https://contents.premium.naver.com/busymoon/kicpakpmg/contents/250519132301771zs)
+
+[![](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fscs-phinf.pstatic.net%2FMjAyNTA1MTlfMjQ3%2FMDAxNzQ3NjI4NTQ5NTQz.UX5175nHMi_TPAC0ozResZ54SU14q7smLMI6Qvs5MY4g.IaOfS-1jbOvSpuyg8Y6ugFXn3JJVVdF0VVo1hQ1uYXIg.JPEG%2FFB_IMG_1747440665893.jpg%3Ftype%3Dw800%22&type=ff500_300)](https://contents.premium.naver.com/busymoon/kicpakpmg/contents/250519132301771zs)[
+
+**\[IFRS Issue Paper 715\] 역취득시 연결재무제표 작성 과정**
+
+715 ● 역취득시 연결재무제표 작성 과정 ■ 역취득 연결재무제표 작성 과정 요약 ■ 연결재무제표 작성과정 ① 법률적 자회사/회계상 취득자의 자산과 부채는 결합 전 장부금액(장부가액)으로 인식 및 측정된다. 즉, 취득일 현재 공정가치가 아니라 기존 장부금액으로 유지한
+
+contents.premium.naver.com
+
+](https://contents.premium.naver.com/busymoon/kicpakpmg/contents/250519132301771zs)
+
+**■ 역취득시 누가 비지배지분으로 분류되는가?**
+
+​
+
+역취득의 경우, 법적 자회사 = 회계상 인수자인데 이때 법적 자회사의 기존주주 중 일부가 법적 모회사(=회계상 피취득자)의 주식을 교환받지 않는 경우, 이들은 결합 후에도 여전히 법적 자회사에만 이해관계를 보유하게 되므로 비지배주주이다. 즉, 이들 잔여 주주는 결합된 실체(combined entity)가 아닌 법적 자회사 단독 실체에 대한 지분을 보유하고 있으므로, 연결재무제표상 비지배지분(NCI)으로 분류된다.
+
+​
+
+**■ 왜 비지배지분으로 분류되는가? (IFRS 3.B23)**
+
+​
+
+역취득에서는 실질적으로 법적 자회사가 지배력을 보유한다. 역합병 후에도 법적 자회사 주식을 여전히 보유한 주주들은 회계상 인수자(법적 자회사)의 일부만 보유하는 반면, 법적 모회사 주식을 보유한 주주들은 전체 결합 실체에 대한 지분을 보유하게 되기 때문이다.
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 36.42%; height: 40.0px;  background-color: #003960;"><div><p style="line-height:2.0;"><span style="color:#f7f7f7;">구분</span></p></div></td><td colspan="1" rowspan="1" style="width: 30.24%; height: 40.0px;  background-color: #003960;"><div><p style="line-height:2.0;"><span style="color:#f7f7f7;">연결실체에 대한 지분 보유</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.33%; height: 40.0px;  background-color: #003960;"><div><p style="line-height:2.0;"><span style="color:#f7f7f7;">비지배지분 여부</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 36.42%; height: 40.0px;  "><div><p style="line-height:2.0;"><span style="">법적 자회사 주식만 보유</span></p></div></td><td colspan="1" rowspan="1" style="width: 30.24%; height: 40.0px;  "><div><p style="line-height:2.0;"><span style="">x (부분 지배)</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.33%; height: 40.0px;  "><div><p style="line-height:2.0;"><span style="">비지배지분</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 36.42%; height: 40.0px;  "><div><p style="line-height:2.0;"><span style="">법적 모회사 주식 보유 (결합수단)</span></p></div></td><td colspan="1" rowspan="1" style="width: 30.24%; height: 40.0px;  "><div><p style="line-height:2.0;"><span style="">O 전체 연결실체 지분</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.33%; height: 40.0px;  "><div><p style="line-height:2.0;"><span style="">지배지분</span></p></div></td></tr></tbody></table>
+
+**■ 비지배지분의 측정 기준 (IFRS 3.B24)**
+
+**​**
+
+**역취득에서는 일반적인 사업결합과 달리, 비지배지분을 공정가치가 아닌 장부금액(carrying amount) 기준으로 측정한다**. 그 이유는 **회계상 인수자인 법적 자회사의 자산·부채는 기존 장부금액으로 인식되기 때문**이다. 즉, 회계상 인수자의 자산·부채는 "취득한 것이 아니라 원래 보유하고 있던 것"이므로, 기존 장부금액 유지하는 것과 일관되게 NCI도 이 장부금액 기준으로, 법적 자회사의 순자산 중 NCI 지분율에 해당하는 부분만큼 인식한다.
+
+> 역취득은 일반적인 취득의 경우와 달리,
+> 
+> 비지배지분을 공정가치로 측정하는 선택권 없음
+
+**■ 회계처리 분석**
+
+**​**
+
+▶ 아래 내용은 Issue Paper 713~716까지 공통적용되는 Example이다. 먼저 비지배주주가 없는 경우 일반적인 역합병 회계처리에 대한 내용을 읽어보고 다음으로 ▶비지배지분 회계처리를 분석한다.
+
+​
+
+![](https://scs-phinf.pstatic.net/MjAyNTA1MTlfMTU4/MDAxNzQ3NjM0Mzg3MTM3.1FnSew7z-TMi3HGBvazOROS9jYuflIRQWdAJahv6lIIg.BSpyic3HK7cS22zznBTEGEYpu-sykoSW6_xBYTFAQQYg.PNG/image.png?type=w800)
+
+![](https://scs-phinf.pstatic.net/MjAyNTA1MTlfNTkg/MDAxNzQ3NjM0NDQzNjUx.6Pp7U3HVs6jZrKD7cagWB_UjpvWdZT2zrNjTEkOlseog.BjM2dIFcLQ6q4NlE-MuRLi1qpxVZZBwXjJW4IMLxWAIg.PNG/image.png?type=w800)
+
+![](https://scs-phinf.pstatic.net/MjAyNTA1MTlfMTU3/MDAxNzQ3NjM0MjQwNzg1.XPLcdIbDRvogxQ8EItcrW62Kwn_4rDg_Qxl26BNsiQMg.EmghJyLM1NHRCeyqLmVSbadWWCFSEMRmR5Ho1FdPZYgg.PNG/image.png?type=w800)
+
+![](https://scs-phinf.pstatic.net/MjAyNTA1MTlfMjMw/MDAxNzQ3NjM0MjkwODY1.euqLqWDkVFs50heMLDpWdeXMsvyuDVRGFHi1l1cOxWog.f6Fv3_Wjh40PmHHz-8O5qDrfxiAZ6P977-FPSnh-jxsg.PNG/image.png?type=w800)
+
+**▶ 비지배지분 회계처리**
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 100.0%; height: 129.0px;  background-color: #bdfbfa;"><div><p style=""><span style="">Example :</span></p><p style=""><span style="">​</span></p><ul><li><p style="line-height:1.8;"><span style="">Issue Paper 713~715까지와 동일한 Fact Pattern을 사용하되, Entity B의 보통주 60주 중 56주만 교환된다는 점만 다르다. Entity A가 Entity B의 보통주 1주당 2.5주를 발행함에 따라, Entity A는 총 140주(150주가 아닌)만 발행한다. 그 결과, Entity B의 주주들은 결합된 실체의 발행주식 총수(즉, 240주 중 140주)에 대해 58.3%를 소유하게 된다.</span></p></li></ul><p style="line-height:1.8;"><span style="">​</span></p><ul><li><p style="line-height:1.8;"><span style="">회계상 피취득자인 Entity A에 대해 이전된 대가의 공정가치는, Entity B가 Entity A의 주주들에게 주식을 발행하여 결합을 수행한 것으로 가정하여 계산된다. 이는 Entity B가 회계상 인수자이기 때문이며, IFRS 3에서는 피취득자의 공정가치를 측정하기 위해 인수자가 발행한 것으로 간주되는 주식 수를 기반으로 하도록 요구한다.</span></p></li></ul><p style="line-height:1.8;"><span style="">​</span></p><ul><li><p style="line-height:1.8;"><span style="">Entity B가 발행해야 할 주식 수를 계산할 때, 비지배지분은 계산에서 제외된다. 대주주들은 Entity B의 주식 56주를 소유하고 있으며, 이는 58.3%의 지분율에 해당한다. 따라서 Entity B는 추가로 40주를 발행해야 한다.</span></p></li></ul><p style="line-height:1.8;"><span style="">​</span></p><ul><li><p style="line-height:1.8;"><span style="">대주주들은 Entity B의 총 발행주식 96주 중 56주를 소유하게 되며, 이는 결합된 실체의 58.3% 소유지분에 해당한다. 그 결과, 회계상 피취득자인 Entity A에 대해 이전된 대가의 공정가치는 CU1,600이다(즉, 공정가치가 CU40인 주식 40주).</span></p></li></ul><p style="line-height:1.8;"><span style="">​</span></p><ul><li><p style="line-height:1.8;"><span style="">이는 Entity B의 모든 주주 60명이 모두 교환에 참여한 Illustration 14-1과 동일한 금액이다. Entity A에 대한 그룹의 지분으로 인식되는 금액은 Entity B의 일부 주주들이 교환에 참여하지 않더라도 변경되지 않는다.</span></p></li></ul><p style="line-height:1.8;"><span style="">​</span></p><ul><li><p style="line-height:1.8;"><span style="">비지배지분은 Entity B의 총 60주 중 Entity A의 주식으로 교환되지 않은 4주에 의해 구성된다. 따라서 비지배지분율은 6.7%가 된다. </span><span style=""><b>비지배지분은 회계결합일 직전 시점의 Entity B 순자산 장부금액에 대해 비지배주주의 비율을 반영한다</b></span><span style="">. 따라서 </span><span style=""><b>연결재무상태표에는 회계결합일 직전의 Entity B 순자산 장부금액(CU2,000)에 대해 6.7%의 비지배지분이 인식된다(즉, CU134).</b></span></p></li></ul><p style="line-height:1.8;"><span style="">​</span></p><ul><li><p style="line-height:1.8;"><span style="">20X2년 9월 30일(사업결합일) 기준 연결재무상태표는 다음과 같이 표시된다. 여기에는 비지배지분 및 각 Entity의 중간 단계(법적 자회사/회계상 인수자인 Entity B 및 법적 모회사/회계상 피취득자인 Entity A)가 포함된다(계산 내역 포함).</span></p></li></ul></div></td></tr></tbody></table>
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">항목</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">Entity B</span></p></div><div><p style=""><span style="color:#ffffff;">(장부금액)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">비지배지분 조정</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">Entity A</span></p></div><div><p style=""><span style="color:#ffffff;">(공정가치)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">Consolidated</span></p></div><div><p style=""><span style="color:#ffffff;">(연결)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">자산 (Assets)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">​</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">​</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">​</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">​</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">유동자산</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">700</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">–</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">500</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">1,200</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">비유동자산</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">3,000</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">–</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">1,500</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">4,500</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">영업권</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">–</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">–</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">300</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">300</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">자산 합계</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">3,700</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">–</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">2,300</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">6,000</span></p></div></td></tr></tbody></table>
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">항목</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">Entity B (Book values)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">비지배지분 조정</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">Entity A</span></p></div><div><p style=""><span style="color:#ffffff;">(Fair values)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">Consolidated</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">부채</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">​</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">​</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">​</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">​</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">유동부채 (Current liabilities)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">600</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">–</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">300</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">900</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">비유동부채 (Non-current liabilities)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">1,100</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">–</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">400</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">1,500</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">부채 합계 (Total liabilities)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">1,700</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">–</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">700</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">2,400</span></p></div></td></tr></tbody></table>
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">자본 항목</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">Entity B</span></p></div><div><p style=""><span style="color:#ffffff;">(Book values)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">NCI 조정</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">Entity A</span></p></div><div><p style=""><span style="color:#ffffff;">(Fair value)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">Consolidated</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">보통주자본 (Issued equity)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">600</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">(40)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">1,600</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">2,160</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">이익잉여금 (Retained earnings)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">1,400</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">(94)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">–</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">1,306</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">비지배지분 (Non-controlling interest)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">–</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">134</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">–</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">134</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">자본 총계 (Total equity)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">2,000</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">–</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">1,600</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">3,600</span></p></div></td></tr></tbody></table>
+
+**■ Journal Entires**
+
+![](https://scs-phinf.pstatic.net/MjAyNTA1MTlfMTU3/MDAxNzQ3NjQ1MTI0NTcy.DNuWwlC5y1nBnOkGhr4q7sbbr0IhizRZKGPJnVLm_WYg.o8ny_3Ycn9EPx5mObOBaJIO4UUrqrVQxJvvLSf8QVUkg.PNG/image.png?type=w800)
+
+​
+
+**● View & Opinion**
+
+​
+
+역합병에서는 법적 자회사 주주의 일부가 주식교환에 참여하지 않았다면, 이는 연결실체에 대한 지분이 아니며 NCI로 분리, 공정가치 선택권 없이 무조건 장부금액 기준 사용 실무상 매우 중요한 차이점이다.
+
+> 역합병에서는 비지배지분이 회계상 인수자의 잔존 지분 중 교환되지 않은 부분을 기준으로, 공정가치가 아닌 장부금액으로 측정되며, 이는 IFRS 3에서 허용된 유일한 방식이다 (B23~B24).
+> 
+> KIFRS1103, 사업결합
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 27.32%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">항목</span></p></div></td><td colspan="1" rowspan="1" style="width: 36.56%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">일반적 사업결합</span></p></div></td><td colspan="1" rowspan="1" style="width: 36.12%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">역합병 (Reverse acquisition)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 27.32%; height: 40.0px;  "><div><p style=""><span style="">회계상 인수자</span></p></div></td><td colspan="1" rowspan="1" style="width: 36.56%; height: 40.0px;  "><div><p style=""><span style="">법적 인수자와 동일</span></p></div></td><td colspan="1" rowspan="1" style="width: 36.12%; height: 40.0px;  "><div><p style=""><span style="">법적 피취득자 (예: 자회사)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 27.32%; height: 40.0px;  "><div><p style=""><span style="">비지배지분의 대상</span></p></div></td><td colspan="1" rowspan="1" style="width: 36.56%; height: 40.0px;  "><div><p style=""><span style="">피취득자의 기존 지분 중 인수하지 않은 부분</span></p></div></td><td colspan="1" rowspan="1" style="width: 36.12%; height: 40.0px;  "><div><p style=""><span style="">회계상 인수자인 자회사(법적 자회사)의 주식 중 교환되지 않은 부분</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 27.32%; height: 40.0px;  "><div><p style=""><span style="">비지배지분 측정 기준</span></p></div></td><td colspan="1" rowspan="1" style="width: 36.56%; height: 40.0px;  "><div><p style=""><span style="">공정가치 또는 장부금액 선택 가능</span></p></div></td><td colspan="1" rowspan="1" style="width: 36.12%; height: 40.0px;  "><div><p style=""><span style="">장부금액만 허용 (IFRS 3.B24)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 27.32%; height: 40.0px;  "><div><p style=""><span style="">비지배지분 지분율 산정 기준</span></p></div></td><td colspan="1" rowspan="1" style="width: 36.56%; height: 40.0px;  "><div><p style=""><span style="">피취득자의 전체 자본 중 비지배지분율</span></p></div></td><td colspan="1" rowspan="1" style="width: 36.12%; height: 40.0px;  "><div><p style=""><span style="">회계상 인수자의 전체 자본 중 교환되지 않은 지분율</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 27.32%; height: 40.0px;  "><div><p style=""><span style="">영업권 산정</span></p></div></td><td colspan="1" rowspan="1" style="width: 36.56%; height: 40.0px;  "><div><p style=""><span style="">이전대가 + NCI + 기존지분 - 순자산</span></p></div></td><td colspan="1" rowspan="1" style="width: 36.12%; height: 40.0px;  "><div><p style=""><span style="">이전대가만 + 기존지분 없음</span><span style="">, NCI는 장부금액 반영</span></p></div></td></tr></tbody></table>
+
+​

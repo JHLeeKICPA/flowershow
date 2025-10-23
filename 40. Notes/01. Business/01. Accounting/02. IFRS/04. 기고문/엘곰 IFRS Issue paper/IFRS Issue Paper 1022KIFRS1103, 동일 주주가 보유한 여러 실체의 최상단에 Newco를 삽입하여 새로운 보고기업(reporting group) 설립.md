@@ -1,0 +1,47 @@
+---
+title: "[IFRS Issue Paper 1022]KIFRS1103, 동일 주주가 보유한 여러 실체의 최상단에 Newco를 삽입하여 새로운 보고기업(reporting group) 설립"
+acounting_standard: "IFRS"
+document_type: "기고문"
+source: "엘곰"
+url: "https://contents.premium.naver.com/busymoon/kicpakpmg/contents/250813155717504sa"
+---
+![](https://n2.news.naver.com/l.gif?type=content)**1022**
+
+**● 동일 주주가 보유한 여러 실체의 최상단에 Newco를 삽입하여 새로운 보고기업(reporting group) 설립**
+
+**​**
+
+Newco가 설립되어, 동일 주주가 보유한 다수의 기업들 최상단에 삽입된다. Newco는 B, C, D의 기존 주주들에게 그들이 이미 보유한 해당 기업들의 주식과 교환하여 Newco의 주식을 발행한다. B, C, D는 IFRS 3에서 정의하는 사업(business)이다. 거래 전과 후의 그룹 구조는 다음과 같다.
+
+​
+
+이 조직 재편은 Newco의 연결재무제표에서 어떻게 회계처리될까?
+
+![](https://scs-phinf.pstatic.net/MjAyNTA4MTNfMjIz/MDAxNzU1MDY1ODc4Mjg5.Wry6xqN2zFfv54BmPNgoZlXRb7uNgRvjuFTS2ju3cBog.2aGWvCjvAChYjBhHM9Y_qSvuhDJWlDjDBoDhCcZZBXYg.PNG/image.png?type=w800)
+
+source ; EY, International GAAP 2025
+
+​
+
+- Issue Paper 1021 : 기존 그룹 A 위에 Newco만 얹음 → “한 개의 사업”만 존재 → 사업결합 아님
+- Issue Paper 1022 : 서로 다른 ‘사업’ 3개(B, C, D)가 한 지붕(Newco) 아래로 모임 → 사업과 사업의 결합 → IFRS 3 사업결합 정의 충족 가능성
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 21.42%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">구분</span></p></div></td><td colspan="1" rowspan="1" style="width: 37.97%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">Issue Paper 1021</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">Issue Paper 1022</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 21.42%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">거래 구조</span></p></div></td><td colspan="1" rowspan="1" style="width: 37.97%; height: 40.0px;  "><div><p style=""><span style="">기존 그룹(A)의 최상단에 Newco를 얹음</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  "><div><p style=""><span style="">동일 주주가 보유한 여러 회사(B, C, D)를 Newco 아래로 결합</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 21.42%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">참여 ‘사업’의 수</span></p></div></td><td colspan="1" rowspan="1" style="width: 37.97%; height: 40.0px;  "><div><p style=""><span style="">1개 사업 (A만)</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  "><div><p style=""><span style="">2개 이상 사업 (B, C, D 모두 IFRS 3상 사업)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 21.42%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">최종 지배자 변화</span></p></div></td><td colspan="1" rowspan="1" style="width: 37.97%; height: 40.0px;  "><div><p style=""><span style="">없음 (같은 주주 그룹)</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  "><div><p style=""><span style="">없음(같은 주주 그룹) 또는 일시적 변경 가능</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 21.42%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">경제적 실질 변화</span></p></div></td><td colspan="1" rowspan="1" style="width: 37.97%; height: 40.0px;  background-color: #b0f1ff;"><div><p style=""><span style="">거의 없음 (자본구조 변경 수준)</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  background-color: #b0f1ff;"><div><p style=""><span style="">여러 사업 결합으로 새로운 보고기업 생성</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 21.42%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">IFRS 3 적용 요건 충족 여부</span></p></div></td><td colspan="1" rowspan="1" style="width: 37.97%; height: 40.0px;  background-color: #b0f1ff;"><div><p style=""><span style="">불충족 – 하나의 사업만 결합, Newco는 사업 아님 → 사업결합 정의 미충족</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  background-color: #b0f1ff;"><div><p style=""><span style="">충족 가능 – 2개 이상 사업 결합, 동일지배가 없거나 일시적이면 IFRS 3 적용 가능</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 21.42%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">동일지배 시 IFRS 3 적용 여부</span></p></div></td><td colspan="1" rowspan="1" style="width: 37.97%; height: 40.0px;  "><div><p style=""><span style="">동일지배 여부 불문 → IFRS 3 적용 불가</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  "><div><p style=""><span style="">동일지배 지속 시 IFRS 3 적용 불가, 동일지배가 없거나 일시적이면 IFRS 3 적용</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 21.42%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">Newco 취득자</span></p></div><div><p style=""><span style="color:#ffffff;">가능성</span></p></div></td><td colspan="1" rowspan="1" style="width: 37.97%; height: 40.0px;  "><div><p style=""><span style="">불가능 – IFRS 3 범위 밖</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  "><div><p style=""><span style="">가능 – 동일지배가 없거나 일시적이고 실질이 있으면 가능</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 21.42%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">적용 가능한 회계처리</span></p></div></td><td colspan="1" rowspan="1" style="width: 37.97%; height: 40.0px;  "><div><p style=""><span style="">IFRS 3 취득법 불가 → 전기 장부금액 승계, 자본변동으로 처리</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  "><div><p style=""><span style="">IFRS 3 취득법 또는 지분통합법 선택 가능(동일지배 지속 시 지분통합법)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 21.42%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">영업권 인식 여부</span></p></div></td><td colspan="1" rowspan="1" style="width: 37.97%; height: 40.0px;  "><div><p style=""><span style="">없음</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  "><div><p style=""><span style="">취득법 적용 시 가능</span></p></div><div><p style=""><span style="">(동일지배면 없음)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 21.42%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">핵심 메시지</span></p></div></td><td colspan="1" rowspan="1" style="width: 37.97%; height: 40.0px;  "><div><p style=""><span style="">단일 사업에 단순 지주 얹는 구조는 사업결합 아님</span></p></div><div><p style=""><span style="">​</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  "><div><p style=""><span style="">여러 사업 결합은 사업결합이 될 수 있으나 동일지배 지속 여부가 핵심 변수</span></p></div><div><p style=""><span style="">​</span></p></div></td></tr></tbody></table>
+
+**■ 검토결론**
+
+**​**
+
+이 사실관계의 거래는, **동일지배(common control)가 존재하지 않거나 일시적인 경우,** **IFRS 3**의 범위에 속하는 사업결합이다. **동일지배가 존재하고 일시적이지 않은 경우,** 이 거래는 **IFRS 3의 범위 밖**에 있으며, Newco는 **지분통합법(pooling of interests method) 또는 취득법(acquisition method)을 적용**할 수 있다(거래에 실질이 있는 경우). 취득법을 적용할 경우, Newco는 이 사실관계에서 취득자로 식별될 수 없다.
+
+​
+
+**Issue Paper 1021의 상황과 달리, 이 거래는 IFRS 3에 따른 사업결합의 정의를 충족한다.** **B, C, D 기업 각각의 하위 그룹(각각 사업으로 정의됨)이 새로운 모기업(Newco) 하에 결합되어 새로운 보고 실체를 형성한다.** 따라서 이 거래는 **IFRS 3의 범위에 속하며**, IFRS 3이 적용된다. 여기서 **B, C, D가 동일지배하에 있는지 여부가 중요하다. 동일지배하에 있는 경우(단, 일시적이지 않은 경우)에는 IFRS 3의 적용범위에서 제외된다.**
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 100.0%; height: 129.0px;  background-color: #b0f1ff;"><div><p style="line-height:1.8;"><span style=""><b>■ 동일지배 판정 핵심 기준</b></span></p><p style="line-height:1.8;"><span style=""><b>​</b></span></p><p style="line-height:1.8;"><span style=""><b>① 동일한 최종지배자 존재 여부</b></span></p><p style="line-height:1.8;"><span style="">​</span></p><ul><li><p style="line-height:1.8;"><span style="">거래 전·후</span><span style="">에 걸쳐 B, C, D를 지배하는 </span><span style="">최종지배자</span><span style="">(ultimate controlling party)가 같아야 한다.</span></p></li><li><p style="line-height:1.8;"><span style="">최종지배자는 </span><span style="">개인, 다수의 개인(계약으로 묶인 집단), 또는 다른 기업</span><span style="">일 수 있다.</span></p></li><li><p style="line-height:1.8;"><span style="">지배(control)는 IFRS 10의 정의에 따라 판단</span></p></li><li><p style="line-height:1.8;"><span style="">실질적으로 권력을 행사할 수 있는지(power)</span></p></li><li><p style="line-height:1.8;"><span style="">변동이익에 노출되는지(exposure to variable returns)</span></p></li><li><p style="line-height:1.8;"><span style="">그 이익에 영향을 미칠 수 있는 능력(link between power and returns)</span></p></li></ul><p style="line-height:1.8;"><span style="">​</span></p><p style="line-height:1.8;"><span style=""><b>② 지배의 형태</b></span></p><p style="line-height:1.8;"><span style=""><b>​</b></span></p><ul><li><p style="line-height:1.8;"><span style="">주로 </span><span style="">의결권 지분</span><span style="">을 통한 지배</span></p></li><li><p style="line-height:1.8;"><span style="">의결권이 없어도 계약적 합의로 지배가 가능하면 동일지배에 해당(예: 두 개별 법인이 있지만 동일한 지주회사 또는 동일한 주주집단이 계약으로 묶여 의사결정을 지배하는 경우)</span></p></li></ul><p style="line-height:1.8;"><span style="">​</span></p><p style="line-height:1.8;"><span style=""><b>③ 지배 지속성 (비일시성 여부)</b></span></p><p style="line-height:1.8;"><span style=""><b>​</b></span></p><p style="line-height:1.8;"><span style="">동일지배가 일시적이면 IFRS 3에서 동일지배 예외를 적용할 수 없음. 일시적이란 단기간 내(예: 12개월 이내) 처분하거나 구조를 변경할 계획이 명확한 경우, IFRS 5에서 매각예정비유동자산 요건을 충족하는 경우, 즉, 동일지배가 최소한 장기 지속될 것으로 합리적으로 기대되어야 한다</span></p></div></td></tr></tbody></table>
+
+​
+
+​
+
+​

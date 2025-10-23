@@ -1,0 +1,79 @@
+---
+title: "[IFRS Issue Paper 669] KIFRS1109, 금융상품손상 ; 계약상부도와 SICR(신용위험의 유의적 증가)의 차이"
+acounting_standard: "IFRS"
+document_type: "기고문"
+source: "엘곰"
+url: "https://contents.premium.naver.com/busymoon/kicpakpmg/contents/250511075236998ak"
+---
+![](https://n2.news.naver.com/l.gif?type=content)**669**
+
+**● 계약상부도와 SICR(신용위험의 유의적 증가)의 차이**
+
+​
+
+**■ 실제 부도(연체 등)와 ‘신용위험의 유의적 증가(SICR)’는 별개의 개념이다**
+
+​
+
+IFRS 9에서는 다음 두 가지 개념을 명확히 구별한다.
+
+​
+
+- 부도(Default): 계약서에 정해진 날까지 돈을 못 갚는 경우이다.
+- 신용위험의 유의적 증가 (SICR): 최초 대출시 보다 신용위험이 유의하게 높아진 경우를 말한다.
+
+​
+
+그러나 즉, 실제 부도가 발생했다고 무조건 SICR이 되는 것이 아니라는 점에 유의해야 한다.
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 100.0%; height: 129.0px;  background-color: #b0f1ff;"><div><p style=""><span style="">은행에서 돈을 빌린 사람이 있다. 이 사람은 다음 달 15일에 이자를 내기로 했는데, 25일이 지나도록 이자를 내지 못했다(즉, 10일 연체). 이 경우, 실제로는 계약상 ‘부도(default)’가 발생한 것이 맞다. 그러나 IFRS 9에서는 보통 30일 이상 연체가 되어야만 ‘신용위험이 유의하게 증가했다(SICR)’고 본다. 따라서 10일 연체만으로는 SICR에 해당하지 않을 수 있다.</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">부도(연체)는 O, SICR는 X인 상황이다. 즉, IFRS 9에서는 부도 발생과 SICR를 별개로 판단하고, 반드시 연체 30일 이상 또는 기타 요건이 충족되어야 SICR가 된다고 보는 것이다.</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">왜 이런 구분이 필요할까? 돈을 빌린 사람이 단순히 며칠 정도 연체할 수도 있다. 이런 단순한 일시적 연체를 무조건 ‘신용위험이 유의하게 증가했다’라고 보면, 은행은 필요 이상으로 손실충당금을 많이 쌓아야 한다. 그래서 IFRS 9은 일시적이고 작은 연체를 무조건 위험 증가로 보지 않도록 유연성을 제공한 것이다.</span></p></div></td></tr></tbody></table>
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 13.82%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">구분</span></p></div></td><td colspan="1" rowspan="1" style="width: 21.77%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">실제 계약상 부도 발생 여부</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.17%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">SICR로 판단할 것인가?</span></p></div></td><td colspan="1" rowspan="1" style="width: 48.24%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">이유</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 13.82%; height: 40.0px;  "><div><p style=""><span style="">사례 A</span></p></div></td><td colspan="1" rowspan="1" style="width: 21.77%; height: 40.0px;  "><div><p style=""><span style="">10일 연체</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.17%; height: 40.0px;  "><div><p style=""><span style="">X</span></p></div></td><td colspan="1" rowspan="1" style="width: 48.24%; height: 40.0px;  "><div><p style=""><span style="">연체가 발생했지만 30일 미만이며, 일시적인 자금부족으로 평가됨</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 13.82%; height: 40.0px;  "><div><p style=""><span style="">사례 B</span></p></div></td><td colspan="1" rowspan="1" style="width: 21.77%; height: 40.0px;  "><div><p style=""><span style="">35일 연체</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.17%; height: 40.0px;  "><div><p style=""><span style="">O</span></p></div></td><td colspan="1" rowspan="1" style="width: 48.24%; height: 40.0px;  "><div><p style=""><span style="">일반적인 30일 기준 초과, 명확히 신용위험 증가</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 13.82%; height: 40.0px;  "><div><p style=""><span style="">사례 C</span></p></div></td><td colspan="1" rowspan="1" style="width: 21.77%; height: 40.0px;  "><div><p style=""><span style="">45일 연체, 정부 보증으로 회수 확실</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.17%; height: 40.0px;  "><div><p style=""><span style="">X</span></p></div></td><td colspan="1" rowspan="1" style="width: 48.24%; height: 40.0px;  "><div><p style=""><span style="">30일 초과 연체이지만, 정부보증 등으로 인해 위험이 낮다고 판단 (30일 기준 반박 가능)</span></p></div></td></tr></tbody></table>
+
+**■ 신용등급 하락으로 금리가 자동으로 올라가는 금융상품도, SICR 판단은 따로 해야 한다**
+
+**​**
+
+어떤 대출이나 채권 상품은 신용등급이 낮아지면 자동으로 이자율(금리)이 올라가는 구조로 되어 있다. 예를 들어 은행이 어떤 기업에게 돈을 빌려주었고, 계약서에 "기업의 신용등급이 BBB에서 BB로 낮아지면 금리를 연 3%에서 연 5%로 자동으로 올린다"는 조항이 있다고 하자. 이렇게 되면 신용등급이 떨어질 때 은행은 자동으로 더 높은 이자를 받게 된다. 이것은 신용위험 증가에 대한 보상이다.
+
+​
+
+하지만 IFRS 9은 금리가 자동으로 올라가는 구조가 있다고 해서, 그것이 자동으로 ‘신용위험이 유의하게 증가했다(SICR)’를 의미하지 않는다고 본다. 금리 상승 자체만으로는 SICR 판단을 끝낼 수 없고, 반드시 최초 인식 시점과 비교하여 위험 증가가 충분히 큰지 별도로 평가해야 한다는 것이다.
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 100.0%; height: 129.0px;  background-color: #b0f1ff;"><div><p style=""><span style=""><b>■ 왜 금리가 올라가는 것만으로는 SICR이 아닐까?</b></span></p></div><div><p style=""><span style="">​</span></p></div><div><p style="line-height:1.8;"><span style="">은행이 애초부터 등급이 떨어질 경우 금리를 올리기로 계약해 두었으므로, 은행은 이미 처음부터 어느 정도 신용등급 하락을 예상하고 있었다. 즉, 금리 조정은 "은행이 이미 알고 대비한 신용위험 증가"다. 하지만 IFRS 9의 SICR 개념은 "최초 예상했던 것보다 위험이 추가적으로 더 커진 경우"를 말한다. 은행이 이미 예상한 등급 하락 정도는 SICR로 볼 수 없다는 것이다. 그래서 IFRS 9에서는, 금리가 올라가는 구조가 있다고 해서 자동으로 SICR로 판단하면 안 되고, 실제로 최초 예상과 비교하여 위험이 더 커졌는지를 반드시 따져보라는 것이다.</span></p></div></td></tr></tbody></table>
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">사례</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">최초 인식 시 PD</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">현재 PD</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">등급 변화</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">금리 자동조정</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">SICR 판단 (IFRS 9)</span></p></div></td><td colspan="1" rowspan="1" style="width: 22.95%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">이유</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  "><div><p style=""><span style="">사례 D</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  "><div><p style=""><span style="">2%</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  "><div><p style=""><span style="">3%</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  "><div><p style=""><span style="">A→BBB</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  "><div><p style=""><span style="">연 3%→연 4%</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  "><div><p style=""><span style="">X</span></p></div></td><td colspan="1" rowspan="1" style="width: 22.95%; height: 40.0px;  "><div><p style=""><span style="">최초 예상과 비교해 위험 증가폭 미미 (1%p 증가)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  "><div><p style=""><span style="">사례 E</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  "><div><p style=""><span style="">2%</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  "><div><p style=""><span style="">10%</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  "><div><p style=""><span style="">A→BB</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  "><div><p style=""><span style="">연 3%→연 6%</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  "><div><p style=""><span style="">✅</span></p></div></td><td colspan="1" rowspan="1" style="width: 22.95%; height: 40.0px;  "><div><p style=""><span style="">최초 예상과 비교해 위험이 크게 증가 (8%p 증가)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  "><div><p style=""><span style="">사례 F</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  "><div><p style=""><span style="">10%</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  "><div><p style=""><span style="">12%</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  "><div><p style=""><span style="">BBB→BB</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  "><div><p style=""><span style="">연 5%→연 7%</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.84%; height: 40.0px;  "><div><p style=""><span style="">❌ 또는 △</span></p></div></td><td colspan="1" rowspan="1" style="width: 22.95%; height: 40.0px;  "><div><p style=""><span style="">최초 위험이 이미 높았으며, 상대적으로 증가폭 작음 (2%p 증가), 추가적 판단 필요</span></p></div></td></tr></tbody></table>
+
+**■ IFRS 9 SICR 평가 실무 체크리스트 및 시나리오 예시**
+
+​
+
+**1\. 계약상 부도 vs SICR 평가 체크리스트**
+
+​
+
+- *연체일이 30일 이상인가?*
+- *연체가 일시적 자금부족이 아닌 구조적 문제인가?*
+- *회수 가능성에 대한 보증이 없거나 낮은가?*
+
+*​*
+
+2개 이상 해당 시 SICR로 판단한다.
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">사례</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">연체 기간</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">연체 이유</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">보증 유무</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">SICR 판단</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">A</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">10일</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">일시적 현금 부족</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">있음</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">SICR 아님</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">B</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">40일</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">재무구조 악화</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">없음</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">SICR</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">C</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">35일</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">정부 보증 있음</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">정부 보증</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">SICR 아님</span></p></div></td></tr></tbody></table>
+
+**2\. 금리 자동조정 금융상품 SICR 평가 체크리스트**
+
+​
+
+- *최초 PD 대비 실제 PD가 2배 이상 증가했는가?*
+- *최초 신용등급 대비 2 notch 이상 하락했는가?*
+- *금리 상승이 시장 일반적인 수준을 넘어서는가?*
+
+​
+
+2개 이상 해당 시 SICR로 판단한다.
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 14.46%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">사례</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.85%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">최초 PD</span></p></div></td><td colspan="1" rowspan="1" style="width: 14.91%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">현재 PD</span></p></div></td><td colspan="1" rowspan="1" style="width: 17.99%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">등급 변화</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.96%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">금리 변화</span></p></div></td><td colspan="1" rowspan="1" style="width: 22.85%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">SICR 판단</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 14.46%; height: 40.0px;  "><div><p style=""><span style="">D</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.85%; height: 40.0px;  "><div><p style=""><span style="">2%</span></p></div></td><td colspan="1" rowspan="1" style="width: 14.91%; height: 40.0px;  "><div><p style=""><span style="">3%</span></p></div></td><td colspan="1" rowspan="1" style="width: 17.99%; height: 40.0px;  "><div><p style=""><span style="">A→BBB</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.96%; height: 40.0px;  "><div><p style=""><span style="">3%→4%</span></p></div></td><td colspan="1" rowspan="1" style="width: 22.85%; height: 40.0px;  "><div><p style=""><span style="">SICR 아님</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 14.46%; height: 40.0px;  "><div><p style=""><span style="">E</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.85%; height: 40.0px;  "><div><p style=""><span style="">2%</span></p></div></td><td colspan="1" rowspan="1" style="width: 14.91%; height: 40.0px;  "><div><p style=""><span style="">10%</span></p></div></td><td colspan="1" rowspan="1" style="width: 17.99%; height: 40.0px;  "><div><p style=""><span style="">A→BB</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.96%; height: 40.0px;  "><div><p style=""><span style="">3%→6%</span></p></div></td><td colspan="1" rowspan="1" style="width: 22.85%; height: 40.0px;  "><div><p style=""><span style="">SICR</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 14.46%; height: 40.0px;  "><div><p style=""><span style="">F</span></p></div></td><td colspan="1" rowspan="1" style="width: 12.85%; height: 40.0px;  "><div><p style=""><span style="">10%</span></p></div></td><td colspan="1" rowspan="1" style="width: 14.91%; height: 40.0px;  "><div><p style=""><span style="">12%</span></p></div></td><td colspan="1" rowspan="1" style="width: 17.99%; height: 40.0px;  "><div><p style=""><span style="">BBB→BB</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.96%; height: 40.0px;  "><div><p style=""><span style="">5%→7%</span></p></div></td><td colspan="1" rowspan="1" style="width: 22.85%; height: 40.0px;  "><div><p style=""><span style="">추가 판단 필요</span></p></div></td></tr></tbody></table>
+
+​

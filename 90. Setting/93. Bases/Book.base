@@ -1,0 +1,37 @@
+properties:
+  note.소장여부:
+    displayName: wikidocs
+  note.Read:
+    displayName: Read
+  note.collection:
+    displayName: index
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - collection == "📚Book"
+    order:
+      - category
+      - file.name
+      - author
+      - publisher
+      - status
+      - note.note
+      - 비고
+    sort:
+      - property: status
+        direction: ASC
+      - property: category
+        direction: ASC
+    columnSize:
+      note.category: 122
+      file.name: 503
+      note.publisher: 136
+      note.status: 128
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.folder == "30. Collection/31. Book"
+    image: note.cover

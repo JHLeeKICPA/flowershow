@@ -1,0 +1,56 @@
+---
+title: "[IFRS Issue Paper 1050]KIFRS1109, 지속적 관여(continuing involvement)가 있는 이전"
+acounting_standard: "IFRS"
+document_type: "기고문"
+source: "엘곰"
+url: "https://contents.premium.naver.com/busymoon/kicpakpmg/contents/250821122333973mh"
+---
+![](https://n2.news.naver.com/l.gif?type=content)**● 지속적 관여(continuing involvement)가 있는 이전**
+
+​
+
+기업이 이전된 자산의 소유에 따른 위험과 보상을 실질적으로 모두 이전하지도 않고, 실질적으로 모두 보유하지도 않으면서, 이전된 자산에 대한 통제를 유지하는 경우, IFRS 9는 기업이 그 ‘계속적 관여(continuing involvement)’의 범위 내에서 이전된 자산을 계속 인식할 것을 요구한다. 즉, **이전된 자산의 공정가치 변동에 기업이 노출되는 범위에 해당하는 정도까지 인식**하는 것이다 \[IFRS 9.3.2.16\].
+
+​
+
+‘계속적 관여’라는 개념은 2002년 6월에 발표된 IAS 32 및 IAS 39의 개정안 공개초안에서 처음 도입되었다. 당시 IASB의 의도는 전적으로 계속적 관여에 기반한 제거(derecognition)모형으로 전환하는 것이었다. 그러나 이 접근법(또는 최소한 공개초안에서 제안된 방법론)은 공개초안 기간 동안 거의 지지를 얻지 못했고, IASB는 이를 포기하고 **위험과 보상의 이전에 기반한 제거 회계모형으로 대부분 회귀**하기로 결정하였다 \[IFRS 9.BCZ3.4\]. 그럼에도 불구하고, 계속적 관여 접근법은 여전히 **특정 거래에 대해서는 관련성이 있다**. 즉, **위험과 보상의 실질적 이전이 아닌, 공유(sharing)를 초래하는 자산 이전 거래에 해당한다.**
+
+​
+
+기업이 계속적 관여를 보유한 자산에 대한 회계 요건은 특히 복잡하며, 특히, **실질적으로 모든 위험과 보유를 보유함으로써 제거 요건을 충족하지 못하는 경우의 처리와는 달리, 계속적 관여의 경우 관련 부채는 종종 균형수치(balancing figure)로 산출되며 이는 이전으로 인해 수취한 대가를 반드시 나타내는 것은 아니다**.
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 100.0%; height: 129.0px;  background-color: #b0f1ff;"><div><p style="line-height:1.8;"><span style=""><b>■ "완전 보유(실질적으로 모든 위험과 보상을 retain)" vs "계속적 관여" 상황을 구분하는 핵심 차이</b></span></p></div><div><p style="line-height:1.8;"><span style=""><b>​</b></span></p></div><div><p style="line-height:1.8;"><span style=""><b>▶ “실질적으로 모든 위험과 보유”를 retain한 경우</b></span></p></div><div><p style="line-height:1.8;"><span style="">​</span></p></div><div><p style="line-height:1.8;"><span style="">자산의 위험과 보상을 대부분 여전히 보유하고 있다면 자산은 제거할 수 없다. 즉, 자산을 전액 그대로 계속 인식해야 한다. 이 경우 대응되는 부채는, 매도기업이 받은 대가가 있으면 그대로 부채로 전액 계상된다. 따라서, 자산과 받은 대가가 직접적으로 매칭된다.</span></p></div><div><p style="line-height:1.8;"><span style="">​</span></p></div><div><p style="line-height:1.8;"><span style=""><b>▶ “계속적 관여(continuing involvement)”인 경우</b></span></p></div><div><p style="line-height:1.8;"><span style=""><b>​</b></span></p></div><div><p style="line-height:1.8;"><span style="">자산의 위험·보상의 일부만 retain한 경우에는 자산의 일부(노출액만큼)만 계속 인식한다. 이때 대응되는 관련 부채는 단순히 받은 대가 금액이 아니라, "계속적 관여 자산과 균형을 맞추기 위한 balancing figure"로 계산된다. 즉, 거래 구조상 현금으로 받은 금액과, 장부금액, 그리고 계속적 관여 범위를 고려해 산출된 결과가 부채가 되는데, 이 부채는 매도자가 실제로 받은 현금 대가를 직접적으로 나타내는 금액은 아니다.</span></p></div><div><p style="line-height:1.8;"><span style="">​</span></p></div><div><p style="line-height:1.8;"><span style="">예를 들어, 장부금액 1,000, 매도기업이 받은 현금: 950, 계속적 관여 자산: 300 (예: 보증금액) 경우,</span></p></div><div><p style="line-height:1.8;"><span style="">​</span></p></div><div><p style="line-height:1.8;"><span style=""><i>Dr) 현금 950 Cr) 자산(대출채권) 1,000</i></span></p></div><div><p style="line-height:1.8;"><span style=""><i>계속적 관여 자산 300 계속적 관여 부채 250</i></span></p></div><div><p style="line-height:1.8;"><span style="">​</span></p></div><div><p style="line-height:1.8;"><span style="">여기서 계속적 관여 부채 250은 단순히 받은 대가(950)와 일치하지도 않고, 오히려 balancing figure(균형 맞추기용 수치)로 계산된 것이다. 따라서 이 부채는 “받은 현금 대가”를 그대로 표현하는 게 아니라, IFRS 9의 제거 논리에 따라 산출된 결과일 뿐이다.</span></p></div></td></tr></tbody></table>
+
+Global Firm의 view는 계속적 관여에 대해 요구되는 회계처리에 대해 큰 우려를 갖고 있다. IFRS 9는 근본 원칙보다는 특정한 구체적 거래를 처리하는 방법에 대한 사례들을 제시하기 때문이다. 따라서 IFRS 9의 예시와 정확히 일치하지 않는 계속적 관여의 적절한 회계처리를 결정하는 것이 어려울 수 있다고 보고 있다.
+
+*Example 1 :*
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 100.0%; height: 129.0px;  background-color: #b0f1ff;"><div><p style="line-height:1.9;"><span style=""><i>(EY, International GAAP 2025)</i></span></p><p style="line-height:1.9;"><span style=""><b>​</b></span></p><p style="line-height:1.9;"><span style=""><b>■ 보증을 통한 계속적 관여(Continuing involvement through guarantee)</b></span></p><p style="line-height:1.9;"><span style=""><b>​</b></span></p><p style="line-height:1.9;"><span style="">한 기업은 장부금액 CU 10백만, 공정가치 CU 10.5백만의 대출 포트폴리오를 보유하고 있다. 기업은 제3자에게 CU 10.55백만을 받고 현금흐름의 100% 권리를 매각한다. 이 거래에는 기업이 포트폴리오에서 </span><span style=""><b>최초 CU 1백만의 채무불이행 손실을 부담하기로 동의하는 대가로 CU 50,000의 지급이 포함되어 있다.</b></span><span style=""> 해당 대출은 고정금리 대출로, 상당한 조기상환위험(prepayment risk)을 내포한다.</span></p><p style="line-height:1.9;"><span style="">​</span></p><p style="line-height:1.9;"><span style="">이 보증의 효과는, 기업이 포트폴리오의 보상의 실질적으로 전부는 이전했으나, 위험의 실질적으로 전부는 이전하지 않았음을 의미한다. </span><span style=""><b>조기상환위험과 이자율위험은 양수자에게 이전되었으므로, 기업은 대출의 모든 중요한 위험을 보유하지는 않는다. 이 포트폴리오는 즉시 시장에서 거래 가능한 자산이 아니므로, 기업은 해당 자산에 대한 통제를 유지한다. 따라서 IFRS 9의 계속적 관여 규정이 적용된다.</b></span></p><p style="line-height:1.9;"><span style=""><b>​</b></span></p><p style="line-height:1.9;"><span style=""><b>▶ 계속적 관여의 측정</b></span></p><p style="line-height:1.9;"><span style=""><b>​</b></span></p><p style="line-height:1.9;"><span style="">기업은 이전된 자산에 대한 계속적 관여는 다음 중 낮은 금액으로 측정되어야 한다고 판단한다.</span></p><p style="line-height:1.9;"><span style="">​</span></p><ul><li><p style="line-height:1.9;"><span style="">이전된 자산의 장부금액 : CU 10백만</span></p></li><li><p style="line-height:1.9;"><span style="">기업이 상환해야 할 수 있는 이전 대가의 최대금액 : CU 1백만 (보증금액)</span></p></li></ul><p style="line-height:1.9;"><span style="">​</span></p><p style="line-height:1.9;"><span style="">따라서 기업은 CU 1백만에 해당하는 계속적 관여 자산을 설정한다. 기업은 이어서 부채 측정을 고려한다. 이는 보증금액(CU 1백만) + 보증의 공정가치(즉, CU 50,000 보증 대가 지급액), 합계 CU 1.05백만으로 최초 측정해야 한다. 따라서, 이 거래에서 기업의 계속적 관여는 아래와 같이 반영된다.</span></p><p style="line-height:1.9;"><span style="">​</span></p><p style="line-height:1.9;"><span style=""><b>① 최초인식</b></span></p><p style="line-height:1.9;"><span style="">​</span></p><p style="line-height:1.9;"><span style="background-color:#b0f1ff;"><i>Dr Cash 10.55 Cr 대출 포트폴리오 10.00</i></span></p><p style="line-height:1.9;"><span style="background-color:#b0f1ff;"><i>Dr 계속적 관여 자산 1.00 Cr 계속적 관여 부채 1.05</i></span></p><p style="line-height:1.9;"><span style="background-color:#b0f1ff;"><i>Cr 처분손익* 0.50</i></span></p><p style="line-height:1.9;"><span style="">​</span></p><p style="line-height:1.9;"><span style="">* 현금수취(CU 10.55백만) – (보증 지급액 CU 0.05백만 + 포트폴리오 공정가치 CU 10.5백만) = 처분손익 0.50백만</span></p><p style="line-height:1.9;"><span style="">​</span></p><p style="line-height:1.9;"><span style=""><b>② 후속 회계처리 – 보증 프리미엄 상각</b></span></p><p style="line-height:1.9;"><span style="">​</span></p><p style="line-height:1.9;"><span style="">거래의 나머지 부분은 보증을 위한 대가로 받은 CU 0.05백만에 해당하며, 이는 </span><span style=""><b>기간 배분 기준으로 손익에 수익으로 인식</b></span><span style="">된다. 보증 계약에 따른 수익 인식은 기간 배분법에 따라 처리된다.</span></p><p style="line-height:1.9;"><span style="">​</span></p><p style="line-height:1.9;"><span style="background-color:#b0f1ff;"><i>Dr 계속적 관여 부채 0.05 Cr 손익(수익) 0.05</i></span></p><p style="line-height:1.9;"><span style="background-color:#b0f1ff;"></span></p><p style="line-height:1.9;"><span style="background-color:#b0f1ff;"><b>③ 손실 발생 시</b></span></p><p style="line-height:1.9;"><span style="">​</span></p><p style="line-height:1.9;"><span style="background-color:#b0f1ff;">만약 이후 예상 신용손실 CU 0.20백만이 발생하여 보증에 따른 지급이 요구된다면, IFRS 9은 다음 회계를 요구한다.</span></p><p style="line-height:1.9;"><span style="">​</span></p><p style="line-height:1.9;"><span style="background-color:#b0f1ff;"><i>Dr 손익(보증 손실) 0.20 Cr 현금(양수자 지급) 0.20</i></span></p><p style="line-height:1.9;"><span style="background-color:#b0f1ff;"><i>Dr 계속적 관여 부채 0.20 Cr 계속적 관여 자산 0.20</i></span></p><p style="line-height:1.9;"><span style="">​</span></p><p style="line-height:1.9;"><span style="background-color:#b0f1ff;"><b>④ 보증 만기 시</b></span></p><p style="line-height:1.9;"><span style="">​</span></p><p style="line-height:1.9;"><span style="background-color:#b0f1ff;">추가 손실이 없다면 만기 시점에 다음 회계처리가 이루어진다:</span></p><p style="line-height:1.9;"><span style="">​</span></p><p style="line-height:1.9;"><span style="background-color:#b0f1ff;"><i>Dr 계속적 관여 부채 (CU 1.00 – CU 0.20) = 0.80 Cr 계속적 관여 자산 0.80</i></span></p><p style="line-height:1.9;"><span style="">​</span></p></div></td></tr></tbody></table>
+
+완전한 이전(Transafer)은 위험·보상의 실질적 전부를 이전하므로 자산 제거(derecognition), 완전한 보유(Retain)는 위험·보상의 실질적 전부를 유지하므로 자산 전액 계속 인식하는 반면, 계속적 관여는 이 둘다 아니고 "일부"만 보유한다는 양적개념으로 금액으로 딱 잘라서 그 범위만큼을 “계속 보유하는 자산”으로 표시한다.
+
+​
+
+즉, 위험과 보상의 정도를 비율로 나눠 애매하게 반영하는 것이 아니라,“기업이 여전히 노출된 최대 금액만큼은 자산과 부채를 계속 인식한다” 라는 구조이다. 즉, “위험을 어느 정도 retain했는지”라는 정성적 판단이 아니라, 금액 단위로 위험노출 범위를 환산해 잔존시키는 것이다. 따라서, 계속적 관여는 “중간지대”라기보다, 자산을 제거하되 특정 금액은 그대로 남기는 hybrid 방식이다.
+
+> 계속적 관여란 “부분적으로 위험을 공유한다”는 개념이 아니라,
+> 
+> ➡ 기업이 여전히 노출된 금액만큼을 자산+부채로 남겨두는 정량적·절단식 접근이다.
+
+![](https://scs-phinf.pstatic.net/MjAyNTA4MjFfMjM0/MDAxNzU1NzQ2NDcyNDU3.NrdtseHbNkWJy4w47gd11OOxu1wgEod74efi13XNgqwg.rKgfWEG_1Q63-J8Oo4kn63ydcQgkRZC0-W9TrSSlL-Ig.PNG/image.png?type=w800)
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 100.0%; height: 129.0px;  background-color: #bdfbfa;"><div><p style="line-height:1.8;"><span style=""><i>(EY, International GAAP 2025)</i></span></p></div><div><p style="line-height:1.8;"><span style=""><b>​</b></span></p></div><div><p style="line-height:1.8;"><span style=""><b>■ ‘지연지급위험(slow payment risk)’을 보증하는 계속적 관여</b></span></p></div><div><p style="line-height:1.8;"><span style=""><b>​</b></span></p></div><div><p style="line-height:1.8;"><span style="">한 기업이 채권을 유동화하는 거래에 참여한다. 기업은 매출채권(명목금액 CU 100, 기대신용손실충당금 CU 2를 인식한 후 상각후원가 CU 98)을 SPE에 CU 97을 받고 이전한다. 기업은 또한 ‘지연지급위험’(채권이 만기일 이후 늦게 상환될 위험)을 일정 부분 retain한다. 구체적으로는, 만기일 이후 최대 60일 동안 미상환 채권잔액에 대해 8%의 이자율로 산정된 ‘펀딩차지(funding charge)’를 부담하는 방식으로 retain한다. 60일 초과시, 모든 지연지급위험(및 채무불이행위험)은 SPE에 귀속된다.</span></p></div><div><p style="line-height:1.8;"><span style="">​</span></p></div><div><p style="line-height:1.8;"><span style="">기업은 SPE를 지배하지 않으므로 연결하지 않는다. 이 거래는 요건충족하는 이전(qualifying transfer)으로 판단된다. 기업은 </span><span style=""><b>실질적으로 모든 위험과 보상을 이전하지도 않고 retain하지도 않았으므로(지연지급위험을 retain했지만, 이는 자산 매도 가격에 중요한 영향을 줄 정도의 중요한 위험은 아니다)</b></span><span style="">, </span><span style=""><b>IFRS 9.3.2.16에 따라 기업은 이전된 채권을 계속적 관여 범위 내에서 인식한다.</b></span></p></div><div><p style="line-height:1.8;"><span style=""><b>​</b></span></p></div><div><p style="line-height:1.8;"><span style="">이 경우, 계속적 관여 금액은 "CU 100 × 8% × (60 ÷ 365) = CU 1.32" 따라서 기업은 CU 98을 제거하고, 대신 CU 1.32를 계속적 관여 자산으로 인식한다. 동시에 기업은 보증의 공정가치에 해당하는 부채를 인식한다. 만약 보증의 공정가치가 CU 0.5라면, 기업은 CU 1.32의 자산과 CU 1.82의 부채를 인식한다. 기업은 따라서 CU 1.50의 처분손실을 인식한다.</span></p></div><div><p style="line-height:1.8;"><span style="">​</span></p></div><div><p style="line-height:1.8;"><span style="">60일 보증기간 동안 프리미엄 상각, 보증 만기 시점 (추가 청구 없음)에 잔여 자산/부채 상계, 또는 보증기간 중 CU 0.2 손실 발생 시 보증손실 현금 지급 분개 및 잔여 자산/부채 상계 회계처리는 Example 1과 동일하다.</span></p></div></td></tr></tbody></table>
+
+위에서 “펀딩차지(funding charge)를 부담하는 방식으로 retain한다”는 표현은 IFRS 9의 계속적 관여(continuing involvement) 맥락에서 중요한 포인트다. 펀딩차지(funding charge)는 유동화 거래에서 채권을 SPE로 넘겼지만, 매도기업이 일부 위험을 여전히 떠안는 구조를 만들 때 종종 이자형태의 보상(펀딩차지)를 붙이는 것을 말한다. 즉, 만기일이 지나도 회수되지 않은 채권이 일정 기간(여기서는 60일) 남아 있는 경우, 매도기업이 해당 미회수잔액에 대해 일정 이율(여기서는 8%)을 부담하는 것이다.
+
+​
+
+이 구조는 “채권 회수가 늦어지는 위험(slow payment risk)”을 매도기업이 일정 부분 계속 안고 있다는 의미이다. 만약 채권이 제때 상환되면 펀딩차지는 발생하지 않지만, 상환이 늦어질 경우 매도기업이 SPE에 일종의 ‘보상금’ 혹은 ‘이자’를 지급해야 한다. 따라서 매도기업은 “만기 후 60일 동안의 지연상환위험”을 retain하는 셈이다.
+
+​
+
+IFRS 9은 이런 구조를 “보증”과 유사하게 본다. 즉, 매도기업은 일정 금액(= 펀딩차지로 환산되는 금액: CU100 × 8% × 60/365 = CU 1.32)만큼 위험에 계속 노출되어 있으므로, 그만큼을 계속적 관여 자산으로 인식하는 동시에, 펀딩차지를 지급할 가능성이 있는 만큼의 부채도 잡는다.
+
+​
+
+​

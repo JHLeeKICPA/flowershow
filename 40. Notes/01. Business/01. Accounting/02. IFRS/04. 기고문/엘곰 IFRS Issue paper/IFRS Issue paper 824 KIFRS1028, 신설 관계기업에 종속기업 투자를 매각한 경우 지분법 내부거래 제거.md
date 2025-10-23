@@ -1,0 +1,82 @@
+---
+title: "[IFRS Issue paper 824] KIFRS1028, 신설 관계기업에 종속기업 투자를 매각한 경우 지분법 내부거래 제거"
+acounting_standard: "IFRS"
+document_type: "기고문"
+source: "엘곰"
+url: "https://contents.premium.naver.com/busymoon/kicpakpmg/contents/250611174831684pj"
+---
+![](https://n2.news.naver.com/l.gif?type=content)**824**
+
+**● 신설 관계기업에 종속기업 투자를 매각한 경우 지분법 내부거래 제거**
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 100.0%; height: 97.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">이 사례(출처 : KPMG Insight into IFRS)는 지분법 대상 기업(Newco)에 종속기업을 매각한 경우, 즉 subsidiary sold to associate 상황에서 발생하는 손익 제거(elimination) 쟁점을 설명하고 있으며, 특히 제거해야 할 이익이 투자 장부금액을 초과하는 경우에 해당한다.</span></p></div><div><p style="line-height:2.1;"><span style="color:#ffffff;">​</span></p></div><div><p style="line-height:2.1;"><span style="color:#ffffff;">이 거래는 설립한 관계기업에 보유 종속기업을 이전하는 거래로 하향거래(downstream)로 미실현이익의 지분액 상당액을 제거하는 회계처리를 한다는 점을 우선적으로 착안해야 한다. 다음으로 제거해야 할 미실현이익이 지분법투자가액을 초과하여 지분법투자가액이 0이 되는 경우 회계처리 방법을 이해하는 것이 목적이다.</span></p></div></td></tr></tbody></table>
+
+■ 거래 구조 요약
+
+​
+
+거래구조의 요지는 X, Y, Z가 각각 일정 투자금을 출자하여 관계기업을 설립하고 X, Y는 보유 종속회사인 X1, Y1의 지분을 신설회사에 이전(Transfer)하는 거래를 함으로써 직접보유 종속회사를 관계회사를 통한 간접보유하는 형태로 구조조정을 할 수 있게 된다.
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 23.09%; height: 40.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">항목</span></p></div></td><td colspan="1" rowspan="1" style="width: 76.91%; height: 40.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">설명</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 23.09%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">Company X</span></p></div></td><td colspan="1" rowspan="1" style="width: 76.91%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">X1(자회사) 100% 보유</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 23.09%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">Company Y</span></p></div></td><td colspan="1" rowspan="1" style="width: 76.91%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">Y1(자회사) 100% 보유</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 23.09%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">X, Y, Z</span></p></div></td><td colspan="1" rowspan="1" style="width: 76.91%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">Newco에 현금 출자 (X: 875 / Y: 875 / Z: 750)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 23.09%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">Newco</span></p></div></td><td colspan="1" rowspan="1" style="width: 76.91%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">총 현금 10,000 확보 (출자 2,500 + 차입 7,500) → X1, Y1 인수</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 23.09%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">인수 후 지분</span></p></div></td><td colspan="1" rowspan="1" style="width: 76.91%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">X: 35% / Y: 35% / Z: 30% (Newco에 대한 significant influence 보유)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 23.09%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">결과</span></p></div></td><td colspan="1" rowspan="1" style="width: 76.91%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">X, Y는 종속기업을 처분하고 대신 지분법 대상 투자(Newco)를 취득</span></p></div></td></tr></tbody></table>
+
+![](https://scs-phinf.pstatic.net/MjAyNTA2MTFfMjU2/MDAxNzQ5NjI0OTEzMzM4.m4zjKlYjC9Rk4D81Vezfx3oHqh4JAAhP4kpPsh1GQL8g.w_H8By8oXF83L9g-1tpyzVs7kS9URi0m82hE06MO_gog.PNG/image.png?type=w800)
+
+따라서, X와 Y가 X1, Y1을 new Co에 매각한 금액과 원가(cost) 정보는 아래와 같다. 따라서 X와 Y는 각각 6,000과 500의 미실현이익을 발생시키므로 이 금액에 대한 각 사의 지분율 만큼을 제거(derecognition)하는 회계처리가 필요할 것이다.
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 33.33%; height: 40.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">항목</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.33%; height: 40.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">X1</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.33%; height: 40.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">Y1</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 33.33%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">장부금액</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.33%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">1,000</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.33%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">2,500</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 33.33%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">공정가치</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.33%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">7,000</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.33%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">3,000</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 33.33%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">처분이익</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.33%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">6,000</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.33%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">500</span></p></div></td></tr></tbody></table>
+
+<table style=""><tbody><tr><td colspan="4" rowspan="1" style="width: 100.0%; height: 43.0px;  background-color: #830041;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">New Co B.S.</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">투자자산 X1</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">7,000</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">비유동부채</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">7,500</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">투자자산 Y1</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">3,000</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">자본</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">2,500</span></p></div></td></tr></tbody></table>
+
+■ 쟁점 정리: 제거해야 할 이익이 장부금액 초과
+
+​
+
+해당 거래는 **종속기업을 관계기업(지분법 대상)에게 매각**하는 경우이므로, **내부거래**로 간주되고 지분법 적용시 **일부 손익 제거(elimination)**가 필요하다. 이 때 중요한 기준은 다음과 같다:
+
+> 지분법 대상 Newco에 대한 보유지분율 × 처분이익 = 제거할 이익
+
+Company X
+
+- X의 Newco 지분: 35%
+- X의 처분이익: 6,000
+- 제거 대상 이익: 6,000 × 35% = 2,100
+- 그러나 X의 Newco에 대한 지분법 투자 초기 장부금액은 875 (현금출자액)
+- 따라서 875만큼만 제거 가능, 나머지 1,225 초과분은 어떻게 처리할지 정책 필요
+
+> 이 경우가 elimination exceeds carrying amount 사례이며,
+> 
+> 두 가지 접근법 중 하나를 택해야 함
+
+■ 회계정책 선택지 요약
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 14.52%; height: 40.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">접근법</span></p></div></td><td colspan="1" rowspan="1" style="width: 45.53%; height: 40.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">설명</span></p></div></td><td colspan="1" rowspan="1" style="width: 39.95%; height: 40.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">본 사례 적용 시</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 14.52%; height: 40.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">접근 1</span></p></div></td><td colspan="1" rowspan="1" style="width: 45.53%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">장부금액까지만 제거하고, 나머지는 이연 없음. 이후 이익 인식에서 먼저 상계</span></p></div></td><td colspan="1" rowspan="1" style="width: 39.95%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">X는 875까지만 제거, 남은 1,225는 이후 Newco 이익에서 상계됨</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 14.52%; height: 40.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">접근 2</span></p></div></td><td colspan="1" rowspan="1" style="width: 45.53%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">전액 제거하고 초과분(1,225)은 이연수익(deferred income)으로 표시</span></p></div></td><td colspan="1" rowspan="1" style="width: 39.95%; height: 40.0px;  "><div><p style="line-height:2.1;"><span style="">재무상태표에 ‘이연수익 1,225’ 표시 후 추후 환입</span></p></div></td></tr></tbody></table>
+
+Journal Entries
+
+​
+
+■ 접근 1
+
+​
+
+▶ X사의 X1처분 인식
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">Dr</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">​</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">Cr</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">​</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">현금</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">7,000</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">X1 순자산 장부가액</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">1,000</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">​</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">​</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">처분이익(P.L.)</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">6,000</span></p></div></td></tr></tbody></table>
+
+▶X사의 Newco에 대한 출자
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">Dr</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">​</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">Cr</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">​</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">투자자산 in Newco</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">875</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">현금</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">875</span></p></div></td></tr></tbody></table>
+
+▶미실현이익(35%) 제거
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">Dr</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">​</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">Cr</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">​</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">처분이익(P.L.)</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">875</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">투자자산 in Newco</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  "><div><p style="line-height:2.1;"><span style="">875</span></p></div><div><p style="line-height:2.1;"><span style="">(limit : 6,000 x 35% = 2,100)</span></p></div></td></tr></tbody></table>
+
+■ 접근 2
+
+​
+
+▶미실현이익(35%) 제거
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">Dr</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">​</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">Cr</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 43.0px;  background-color: #003960;"><div><p style="line-height:2.1;"><span style="color:#ffffff;">​</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 21.5px;  "><div><p style="line-height:2.1;"><span style="">처분이익(P.L.)</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 21.5px;  "><div><p style="line-height:2.1;"><span style="">2,100</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 21.5px;  "><div><p style="line-height:2.1;"><span style="">투자자산 in Newco</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 21.5px;  "><div><p style="line-height:2.1;"><span style="">875</span></p></div><div><p style="line-height:2.1;"><span style="">(limit : 6,000 x 35% = 2,100)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 21.5px;  "><div><p style="line-height:2.1;"><span style="">​</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 21.5px;  "><div><p style="line-height:2.1;"><span style="">​</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 21.5px;  "><div><p style="line-height:2.1;"><span style="">이연이익(deferred income)</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 21.5px;  "><div><p style="line-height:2.1;"><span style="">1,225</span></p></div></td></tr></tbody></table>
+
+추후 회계기간에 Newco가 이익을 실현하여 투자지분(지분법 투자)의 장부금액이 양(+)의 금액으로 회복되면, X는 기존에 표시하였던 이연수익(deferred income)을 일반적인 방식에 따라 Newco에 대한 투자금액에서 차감하는 방식으로 표시를 변경한다.

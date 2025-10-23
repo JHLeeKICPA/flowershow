@@ -1,0 +1,104 @@
+---
+title: "[IFRS Issue Paper 651] KIFRS 1036, 1028, 지분법 투자주식에 대한 2단계 손상회계"
+acounting_standard: "IFRS"
+document_type: "기고문"
+source: "엘곰"
+url: "https://contents.premium.naver.com/busymoon/kicpakpmg/contents/250508113103120om"
+---
+![](https://n2.news.naver.com/l.gif?type=content)**651**
+
+**● 지분법투자주식에 대한 2단계 손상회계**
+
+​
+
+IAS 36은 종속기업뿐 아니라 IAS 28에 따라 지분법(equity method)으로 회계처리 되는 관계기업 및 공동기업에 대한 투자에도 적용되며, 이러한 투자의 손상검토는 다음의 두 단계로 이루어진다
+
+​
+
+▶Step 1
+
+​
+
+**지분법 적용**: 관계기업 또는 공동기업의 **식별가능한 자산**에 대한 손상손실 중 투자자의 지분을 인식한다. 즉, 관계기업이 자산에 대해 손상차손을 인식하면, 이를 투자자(지배기업)의 지분율에 따라 반영하여 지분법 장부가액을 감소시킨다. 이는 일반적으로 관계기업이 개별적으로 자산손상을 인식한 경우에 해당한다.
+
+​
+
+▶Step 2
+
+​
+
+관계기업 또는 공동기업 전체에 대한 투자장부를 단일단위(unit of account)로 손상검토하고, 필요 시 손상차손을 인식한다. 이 단계는 Step 1 이후에도 회수가능가액이 장부금액보다 낮을 경우에 수행되며, 지분법 장부가 전체에 대해 손상검토를 한다. 투자 전체의 회수가능가액(예: 기업가치 또는 미래현금흐름 할인법)을 평가해 장부가보다 낮으면 그 차액만큼 손상차손을 추가로 인식한다.
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 100.0%; height: 129.0px;  background-color: #bdfbfa;"><div><p style=""><span style=""><b>♣ Step 1과 Step 2와의 관계</b></span></p><p style=""><span style="">​</span></p><p style=""><span style=""><b>[1] 관계기업(associate)이 개별적으로 IAS 36에 따라 손상검토를 수행</b></span></p><p style=""><span style="">​</span></p><p style=""><span style="">관계기업이 보유한 자산(예: 유무형자산, 영업권 등)에 대해 자체적으로 손상검사를 수행하고 손상차손이 인식되면 관계기업의 당기순이익이 감소</span></p><p style=""><span style="">​</span></p><p style=""><span style=""><b>[2] 지분법 투자자는 손익변동에 따라 투자장부를 조정</b></span></p><p style=""><span style="">​</span></p><p style=""><span style="">투자자는 관계기업의 손익에 따라 지분법 손익을 인식하므로, 관계기업의 손상차손이 반영된 당기순이익을 기초로 지분법 손익이 결정되므로 결과적으로, 투자자의 투자장부금액도 감소하게 됨</span></p><p style=""><span style="">​</span></p><p style=""><span style="">즉, Step 1은 ‘관계기업이 직접 인식한 손상차손’을 지분율만큼 반영하는 구조로, 이는 특별한 판단이나 추가 절차 없이 지분법 회계상 자동적으로 반영된다.</span></p><p style=""><span style="">​</span></p><p style=""><span style="">하지만, 이 과정을 Step 1으로 별도 구분한 이유는 관계기업이 자산에 대한 손상검사를 하지 않았거나 불충분하게 수행한 경우, 또는 회계정보의 입수가 지연되거나 불완전한 경우라면, 투자자는 자체적으로 손상 가능성을 검토해야 하는 측면을 고려한 것이다.</span></p><p style=""><span style="">​</span></p><p style=""><span style=""><b>Step 2: 투자자의 입장에서 투자 전체(지분법 장부금액)에 대한 손상검토</b></span></p><p style=""><span style=""><b>​</b></span></p><p style=""><span style="">Step 1로 충분하지 않은 경우, 투자자는 투자 전체의 회수가능가액(recoverable amount)을 평가해야 함. 이 때, 전체 순투자금액이란 "장부상 투자금액(지분법 적용 후 금액) + 취득 시 인식한 영업권 등 관련 금액"을 의미한다. 특히 아래와 같은 경우 Step 2 수행이 요구된다.</span></p><p style=""><span style="">​</span></p><ul><li><p style=""><span style="">관계기업이 손상차손을 인식하지 않았지만, 외부 환경상 손상 징후가 있는 경우</span></p></li><li><p style=""><span style="">관계기업의 주가 급락 등으로 회수가능액이 의심되는 경우</span></p></li><li><p style=""><span style="">회계정보의 지연, 오류 또는 비협조로 인해 신뢰성이 낮은 경우</span></p></li></ul><p style=""><span style="">​</span></p><p style=""><span style="">Step 1은 '자동적 반영'되는 구조이이지만 이는 전적으로 관계기업이 IFRS 기준에 따라 적절히 손상차손을 인식하고 있다는 전제하에서 성립하는 것으로 IAS 36의 실무 지침에서는 Step 1과 Step 2를 구분된 절차로 명확히 인식하여, 필요 시 Step 2를 수행하도록 요구한다.</span></p></div></td></tr></tbody></table>
+
+▶요약
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 16.72%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">구분</span></p></div></td><td colspan="1" rowspan="1" style="width: 39.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">Step 1</span></p></div></td><td colspan="1" rowspan="1" style="width: 44.28%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">Step 2</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 16.72%; height: 40.0px;  "><div><p style=""><span style="">기준서</span></p></div></td><td colspan="1" rowspan="1" style="width: 39.0%; height: 40.0px;  "><div><p style=""><span style="">IAS 28 / IAS 36</span></p></div></td><td colspan="1" rowspan="1" style="width: 44.28%; height: 40.0px;  "><div><p style=""><span style="">IFRS 9 + IAS 36</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 16.72%; height: 40.0px;  "><div><p style=""><span style="">검토 대상</span></p></div></td><td colspan="1" rowspan="1" style="width: 39.0%; height: 40.0px;  "><div><p style=""><span style="">관계기업의 식별가능 자산 손상 여부</span></p></div></td><td colspan="1" rowspan="1" style="width: 44.28%; height: 40.0px;  "><div><p style=""><span style="">전체 순투자금액(Net Investment)의 손상 여부</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 16.72%; height: 40.0px;  "><div><p style=""><span style="">손상 인식</span></p></div><div><p style=""><span style="">방식</span></p></div></td><td colspan="1" rowspan="1" style="width: 39.0%; height: 40.0px;  "><div><p style=""><span style="">관계기업이 손상 인식 → 지분법 손익 반영</span></p></div></td><td colspan="1" rowspan="1" style="width: 44.28%; height: 40.0px;  "><div><p style=""><span style="">투자자가 직접 손상검토 수행</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 16.72%; height: 40.0px;  "><div><p style=""><span style="">필요 조건</span></p></div></td><td colspan="1" rowspan="1" style="width: 39.0%; height: 40.0px;  "><div><p style=""><span style="">관계기업이 IFRS에 따라 손상차손을 이미 반영</span></p></div></td><td colspan="1" rowspan="1" style="width: 44.28%; height: 40.0px;  "><div><p style=""><span style="">손상 객관적 증거가 있는 경우</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 16.72%; height: 40.0px;  "><div><p style=""><span style="">회계적 영향</span></p></div></td><td colspan="1" rowspan="1" style="width: 39.0%; height: 40.0px;  "><div><p style=""><span style="">지분법 손익으로 반영</span></p></div></td><td colspan="1" rowspan="1" style="width: 44.28%; height: 40.0px;  "><div><p style=""><span style="">손상차손은 추가로 인식되어 투자장부 감소</span></p></div></td></tr></tbody></table>
+
+**Example : (출처 : Grant thorntton)**
+
+​
+
+**▶ Step 1 : 지분법의 적용**
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 100.0%; height: 129.0px;  background-color: #bdfbfa;"><div><p style=""><span style="">202X3년 1월 1일, 투자자 A는 기업 B의 지분 40%를 CU300에 취득하였다. 투자자 A는 기업 B가 IAS 28에 따른 관계기업 정의를 충족함을 판단하였다. 기업 B는 IFRS에 따라 보고하고 있으며 투자자 A와 일관된 회계정책을 적용한다.</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">202X3년 1월 1일 기준으로 기업 B의 순자산 장부금액은 CU540이다. 투자자 A는 IFRS 3의 요건을 적용하여 기업 B의 식별가능 자산, 부채 및 우발부채를 공정가치로 측정하였다. 다음은 장부금액과 조정사항을 요약한 표이다:</span></p></div></td></tr></tbody></table>
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">항목</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">장부금액 (CU)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">공정가치 및</span></p></div><div><p style=""><span style="color:#ffffff;">기타 조정</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">비고</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">조정 후 금액</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">유형자산 (PP&amp;E)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">300</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">+100</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">a)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">400</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">영업권</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">40</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">(40)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">b)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">0</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">기타 무형자산</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">0</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">+50</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">c)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">50</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">기타 자산</span></p></div><div><p style=""><span style="color:#ffffff;">및 부채</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">200</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">0</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">​</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">200</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">우발부채 – 소송</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">0</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">(150)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">d)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 40.0px;  "><div><p style=""><span style="">(150)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 20.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">합계</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 20.0px;  "><div><p style=""><span style="">540</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 20.0px;  "><div><p style=""><span style="">–</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 20.0px;  "><div><p style=""><span style="">–</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 20.0px;  "><div><p style=""><span style="">600</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 10.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">지분(40%)</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 10.0px;  "></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 10.0px;  "></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 10.0px;  "></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 10.0px;  "><div><p style=""><span style="">240</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 20.0%; height: 10.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">취득금액</span></p></div></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 10.0px;  "></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 10.0px;  "></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 10.0px;  "></td><td colspan="1" rowspan="1" style="width: 20.0%; height: 10.0px;  "><div><p style=""><span style="">300</span></p></div></td></tr></tbody></table>
+
+Note.
+
+(a) 유형자산을 CU100만큼 상향 조정. 잔여내용연수 10년, 잔존가치는 없음.
+
+(b) **기업 B의 영업권은 식별가능 자산이 아니므로 IFRS에 따라 제거.**
+
+**(c)** 브랜드 X, Y를 식별가능 무형자산으로 각각 CU130, CU20으로 평가. 내용연수 10년.
+
+(d) 기업 B에 대한 소송과 관련된 우발부채를 공정가치로 CU150 인식
+
+​
+
+202X3년 중 기업 B는 CU200의 당기순이익을 기록하였고 브랜드 Y를 중단하고 브랜드 X에 집중하기로 결정함에 따라 브랜드 Y는 전액 손상(CU20) 되었고, 아래 항목이 당기순익에 포함되어 있으며, 배당금지급은 없다.
+
+​
+
+- B사가 보유한 영업권에 대한 손상차손 CU40
+- 공정가치 조정된 유형자산에 대한 감가상각 CU10
+- 소송 합의 비용 CU200
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">조정 항목</span></p></div></td><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">금액 (CU)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">당기순이익 (B 보고치)</span></p></div></td><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">200</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">조정:</span></p></div></td><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">​</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">- 추가 감가상각 (공정가치 조정분)</span></p></div></td><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">(10)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">- B사 영업권 손상 환입</span></p></div></td><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">+40</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">- 브랜드 X 상각</span></p></div></td><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">(13)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">- 브랜드 Y 손상</span></p></div></td><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">(20)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">- 소송합의비용 환입</span></p></div></td><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">+150</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">조정 후 지분법 손익 기준 순이익</span></p></div></td><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">347</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">투자자 A의 40% 지분</span></p></div></td><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">139</span></p></div></td></tr></tbody></table>
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">차변</span></p></div></td><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">대변</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">관계기업 투자금액 CU139</span></p></div></td><td colspan="1" rowspan="1" style="width: 50.0%; height: 40.0px;  "><div><p style=""><span style="">포괄손익 – 지분법손익 CU139</span></p></div></td></tr></tbody></table>
+
+**▶ Step 2 : 투자 전체(Net Investment)에 대한 손상검토**
+
+**​**
+
+**① 검토 대상: 지분법으로 평가된 전체 투자**
+
+​
+
+Step 1에서는 관계기업이 보유한 개별 자산의 손상 여부를 반영하는 구조였다면, Step 2는 투자자의 장부상 지분법 투자 전체(Net Investment)에 대한 손상검토를 수행하는 단계이다. 여기에는 Step 1에서 반영된 손익 외에도, 배당, 처분대금, 영업권 등을 포함한 전체 순자산 투자금액이 포함된다.
+
+​
+
+② Goodwill의 포함 여부
+
+​
+
+지분법 적용 시 goodwill은 장부상 별도 표시되지는 않지만, Step 2 손상검토 시 포함해야 한다. 본 예제에서는 goodwill이 CU60으로, 순투자금액의 일환으로 손상검토에 반영된다.
+
+​
+
+③ 회수가능가액의 산정 기준: IAS 36 기준 적용
+
+​
+
+투자자의 장부금액과 비교할 회수가능가액은 다음 두 가지 중 큰 금액이다:
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 17.94%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">구분</span></p></div></td><td colspan="1" rowspan="1" style="width: 82.06%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">내용</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 17.94%; height: 40.0px;  "><div><p style=""><span style="">FVLCOD</span></p></div></td><td colspan="1" rowspan="1" style="width: 82.06%; height: 40.0px;  "><div><p style=""><span style="">Fair Value Less Costs of Disposal (처분가능금액에서 처분비용 차감)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 17.94%; height: 40.0px;  "><div><p style=""><span style="">VIU</span></p></div></td><td colspan="1" rowspan="1" style="width: 82.06%; height: 40.0px;  "><div><p style=""><span style="">Value in Use – 사용가치. 보유를 전제로 발생할 미래현금흐름의 현재가치</span></p></div></td></tr></tbody></table>
+
+사용가치는 관계기업이 창출할 것으로 예상되는 미래현금흐름의 투자자 몫 (예: 지분율 x FCF) 또는 배당금과 처분수익의 현재가치로 산출한다. 이 두 방식은 개념적으로 동일 결과에 수렴해야 한다. 예를 들어 관계기업이 배당하지 않고 이익을 유보하더라도, 최종 처분시점에 반영하는 방식으로 일치시킨다.
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 18.78%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">항목</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">Step 1</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">Step 2</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 18.78%; height: 40.0px;  "><div><p style=""><span style="">검토 대상</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  "><div><p style=""><span style="">관계기업의 개별 자산</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  "><div><p style=""><span style="">전체 투자(지분법 장부금액)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 18.78%; height: 40.0px;  "><div><p style=""><span style="">손상증거</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  "><div><p style=""><span style="">관계기업이 인식한 손상손실</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  "><div><p style=""><span style="">투자자 자체 판단에 의한 객관적 증거</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 18.78%; height: 40.0px;  "><div><p style=""><span style="">포함 항목</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  "><div><p style=""><span style="">관계기업의 자산·부채, 손익</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  "><div><p style=""><span style="">투자장부금액, goodwill, 예상 FCF</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 18.78%; height: 40.0px;  "><div><p style=""><span style="">기준</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  "><div><p style=""><span style="">IAS 28 + IAS 36</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  "><div><p style=""><span style="">IAS 36 (FVLCOD vs VIU 비교)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 18.78%; height: 40.0px;  "><div><p style=""><span style="">회수가능액</span></p></div><div><p style=""><span style="">산정</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  "><div><p style=""><span style="">관계기업 개별 자산 단위</span></p></div></td><td colspan="1" rowspan="1" style="width: 40.61%; height: 40.0px;  "><div><p style=""><span style="">투자 전체 단위 (net investment 단위)</span></p></div></td></tr></tbody></table>
+
+​

@@ -1,0 +1,52 @@
+---
+title: "[IFRS Issue Paper 579] KIFRS1036, 시너지 효과와 영업권의 배분"
+acounting_standard: "IFRS"
+document_type: "기고문"
+source: "엘곰"
+url: "https://contents.premium.naver.com/busymoon/kicpakpmg/contents/250419173153166xk"
+---
+![](https://n2.news.naver.com/l.gif?type=content)**579**
+
+**● 시너지 효과와 영업권의 배분**
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 99.99%; height: 129.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">영업권은 어디에 배분해야 하는가?</span></p></div><div><p style=""><span style="color:#ffffff;">기업이 타 회사를 인수할 경우, 인수가격 중 식별 가능한 순자산(fair value of net identifiable assets)을 초과하는 금액은 영업권(goodwill)이라 한다. 이 영업권은 일반적으로 인수로 인해 기대되는 시너지 효과(synergies)를 반영한다. IAS 36은 이 영업권을 결합으로 인한 시너지 효과를 실제로 받을 것으로 기대되는 CGU(Cash-Generating Unit) 또는 CGU의 집합에만 배분하도록 규정하고 있다.</span></p></div></td></tr></tbody></table>
+
+영업권은 일반적으로 인수로 인해 기대되는 시너지 효과(synergies)를 반영한다. 단순히 어떤 자산이 어디에 소속되었는지가 아니라, 실질적으로 시너지 효과가 발생하는 조직 단위가 어디인가를 기준으로 판단해야 한다는 의미이다. IAS36에서는 Synergy 유형을 다음과 같이 2가지 Category로 분류한다.
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 33.34%; height: 40.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">시너지 유형</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.34%; height: 40.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">설명</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.34%; height: 40.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">예시</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 33.34%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">1. 마진 개선형 (비용 절감)</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.34%; height: 40.0px;  "><div><p style=""><span style="">고정비 분산, 규모의 경제 등 운영효율 향상</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.34%; height: 40.0px;  "><div><p style=""><span style="">인력통합, 본사 통합, 유지보수 일원화</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 33.34%; height: 40.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">2. 성장 기회형 (수익 증가)</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.34%; height: 40.0px;  "><div><p style=""><span style="">브랜드, 기술, 고객기반을 활용한 매출 증대</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.34%; height: 40.0px;  "><div><p style=""><span style="">유명 브랜드 인수 후 기존 제품 판매 증대</span></p></div></td></tr></tbody></table>
+
+따라서 영업권 배분의 핵심은 어떤 CGU가 이 시너지 효과를 실질적으로 **누리는가**를 파악하는 데 있다. Synergy효과는 기존 business와 신규 business의 결합에서 창출되는 것이므로 어디에서 발생하였는가의 개념이 아님에 유의해야 한다.
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 99.99%; height: 129.0px;  background-color: #bdfbfa;"><div><p style=""><span style=""><b>Example 1 : 광산업체 – 기존 설비와의 고정비 분산 (비용 절감형 시너지)</b></span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">▶ 상황</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">금속광물을 채굴하는 기업이 </span><span style=""><b>기존 제련소</b></span><span style="">와 여러 광산을 보유하고 있는 상태에서 새로운 광산을 추가 인수하였다. 이 금속광물은 원석 상태로는 시장성이 없으며, 반드시 </span><span style=""><b>제련 및 정제를 거쳐야 판매가 가능하다.</b></span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">▶ 회계 판단</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">새로운 광산은 기존 제련 설비와 통합하여 운영될 예정이며, 이는 </span><span style=""><b>고정비를 분산시키는 효과</b></span><span style="">를 가져온다. 이 경우 시너지는 </span><span style=""><b>기존 인프라를 활용한 비용 절감 효과</b></span><span style="">로 나타난다.</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">▶ 결론</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style=""><b>영업권은 기존 제련소 + 기존 광산들 + 신규 광산을 포함하는 하나의 CGU에 배분</b></span><span style="">되어야 한다. </span><span style=""><b>이는 고정비가 통합적으로 관리되고, 시너지 또한 해당 단위 전체에 걸쳐 나타나기 때문이다.</b></span></p></div><div><p style=""><span style=""><b>​</b></span></p></div><div><p style=""><span style="">▶ 실무 포인트</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style=""><b>단순히 신규 광산이라는 이유로 별도 CGU로 설정해서는 안 된다. 중요한 것은 단위 전체가 하나의 수익창출 단위로서 시너지를 공유하고 있다는 사실이다.</b></span></p></div></td></tr></tbody></table>
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 100.0%; height: 129.0px;  background-color: #bdfbfa;"><div><p style=""><span style=""><b>Example 2 : 항공사 – 조직 통합을 통한 운영 효율화 (비용 절감형 시너지)</b></span></p></div><div><p style=""><span style=""><b>​</b></span></p></div><div><p style=""><span style="">▶ 상황</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">항공사가 유사한 국제운항 구조를 가진 또 다른 항공사를 인수하였다. 인수 후에는 두 조직을 통합하여 본사 기능, 판매, 인사, 항공기 정비 등을 하나로 묶어 운영할 계획이다.</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">▶ 회계 판단</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">이러한 통합은 인력 중복 제거, 유지보수 통합 등을 통해 운영비용 절감 효과를 발생시킨다. 이 효과는 인수된 회사의 자산이 어느 조직에 속하느냐보다, 실제 운영상 어떤 CGU가 시너지를 받느냐가 핵심이다.</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">▶ 결론</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">영업권은 통합된 국제항공 CGU에 배분되어야 한다. 이는 해당 CGU가 통합에 따른 운영 효율화의 실질적인 수혜자이기 때문이다.</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">▶ 실무 포인트</span></p></div><div><p style=""><span style="">기업이 ERP 시스템, 정비 인프라, 회계관리 등을 통합한다면 그 조직 단위를 기준으로 CGU를 재정의하는 것이 바람직하다.</span></p></div></td></tr></tbody></table>
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 100.0%; height: 129.0px;  background-color: #bdfbfa;"><div><p style=""><span style=""><b>Example 3 : 소비재 회사 – 브랜드 시너지 통한 수익 증대 (성장형 시너지)</b></span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">▶ 상황</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">글로벌 소비재 회사가 유명 면도기 브랜드 회사를 인수하였다. 기존에는 면도기를 생산한 적은 없지만, 면도크림, 애프터쉐이브 등 shaving 관련 제품은 제조해온 상태이다. 인수된 면도기 공장은 기존 사업과 직접 통합되지 않지만, 해당 브랜드를 통해 기존 shaving 제품의 매출이 늘어날 것으로 기대된다.</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">▶ 회계 판단</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">이 경우 인수된 자산은 물리적으로 기존 사업과 통합되지 않는다. 그러나 브랜드 시너지로 인해 기존 shaving 제품 부문이 수익 증가라는 실질적 시너지 효과를 누리게 된다. 이는 전형적인 성장형 시너지로 볼 수 있다.</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">▶결론</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">영업권은 기존 shaving 제품 부문(CGU)에 배분되어야 한다.</span><span style=""><b> 자산이 물리적으로 배속되지 않더라도, 브랜드 시너지의 혜택을 받는 CGU가 누구인가가 기준이 된다.</b></span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">▶실무 포인트</span></p></div><div><p style=""><span style="">​</span></p></div><div><p style=""><span style="">실무에서는 브랜드, 특허, 기술 같은 무형요소가 수익 증가로 이어질 때, 해당 수익의 귀속 단위를 정확히 파악하는 것이 중요하다.</span></p></div></td></tr></tbody></table>
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 22.35%; height: 40.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">항목</span></p></div></td><td colspan="1" rowspan="1" style="width: 77.65%; height: 40.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">판단 기준</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 22.35%; height: 40.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">CGU의 정의</span></p></div></td><td colspan="1" rowspan="1" style="width: 77.65%; height: 40.0px;  "><div><p style=""><span style="">동일한 자산 또는 사업부라 하더라도 시너지 효과의 수혜 범위가 다르면 별도 CGU로 분류 가능</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 22.35%; height: 40.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">영업권 배분 기준</span></p></div></td><td colspan="1" rowspan="1" style="width: 77.65%; height: 40.0px;  "><div><p style=""><span style="">물리적 자산의 위치보다 실질적인 시너지 효과를 </span><span style=""><b>받는</b></span><span style=""> 단위에 따라 결정</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 22.35%; height: 40.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">비용절감형 시너지</span></p></div></td><td colspan="1" rowspan="1" style="width: 77.65%; height: 40.0px;  "><div><p style=""><span style="">인력/설비 통합 등 → 통합 조직 CGU에 배분</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 22.35%; height: 40.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">성장형 시너지</span></p></div></td><td colspan="1" rowspan="1" style="width: 77.65%; height: 40.0px;  "><div><p style=""><span style="">브랜드/기술/고객 활용 → 기존 사업부문 CGU에 배분</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 22.35%; height: 40.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">기타 유의사항</span></p></div></td><td colspan="1" rowspan="1" style="width: 77.65%; height: 40.0px;  "><div><p style=""><span style="">조직 개편이나 사업 구조 변경 시 CGU 및 영업권 배분도 재검토해야 함</span></p></div></td></tr></tbody></table>
+
+**● View & Opinion**
+
+**​**
+
+제약회사 A가 신약 개발권을 가진 회사를 인수한 경우 해당 회사는 초기 연구개발단계로 별도 CGU로 식별되기 어렵지만 기존 연구개발부서와 통합되어 기술 및 파이프라인 공유한다면 미래 수익 창출 기대할 수 있을 것이다. 이 경우, 기술 시너지 효과는 기존 연구개발 CGU에 귀속되므로 영업권은 해당 CGU로 배분 가능하다.
+
+​
+
+또한, 완성차 기업이 엔진 부품을 생산하는 회사를 인수한 경우, 내재화에 따른 공급망 안정, 제조단가 절감의 시너지효과가 있을 것으로 판단된다면 인수된 자산은 물리적으로 부품공장이지만, 실질적으로는 완성차 CGU가 비용절감 혜택을 받으므로 영업권은 해당 완성차 CGU에 배분하는 것이 타당하다.
+
+​
+
+\[시너지 발생 여부 판단\] ─▶ \[시너지 유형 식별\]
+
+├─▶ 비용절감형 시너지
+
+│ └─▶ 통합 운영 조직 (CGU)로 영업권 배분
+
+└─▶ 수익증가형 시너지
+
+└─▶ 브랜드 등으로 혜택 받는 기존 사업부(CGUs)로 영업권 배분
+
+![](https://scs-phinf.pstatic.net/MjAyNTA0MTlfMTU3/MDAxNzQ1MDUxMzI1ODAx.rz0sPKJ1P2hz9x5SI8QaZJOuE4yCJnmmbkM1EmoxEskg.iJHekV9Pnv_uGHcWmWJCyWXLaimdJ9zHFkJ1rysh5Zog.PNG/image.png?type=w800)
+
+​

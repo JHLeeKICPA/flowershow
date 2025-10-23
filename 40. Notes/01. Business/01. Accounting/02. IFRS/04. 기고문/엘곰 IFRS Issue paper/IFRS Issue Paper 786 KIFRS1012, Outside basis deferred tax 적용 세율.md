@@ -1,0 +1,76 @@
+---
+title: "[IFRS Issue Paper 786] KIFRS1012, Outside basis deferred tax 적용 세율"
+acounting_standard: "IFRS"
+document_type: "기고문"
+source: "엘곰"
+url: "https://contents.premium.naver.com/busymoon/kicpakpmg/contents/250602093325803wj"
+---
+![](https://n2.news.naver.com/l.gif?type=content)**786**
+
+**● Outside basis deferred tax 적용 세율**
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 100.0%; height: 32.25px;  background-color: #bdfbfa;"><div><p style="line-height:1.8;"><span style="">(source ; KPMG Insight into IFRS)</span></p><p style="line-height:1.8;"><span style="">​</span></p><p style="line-height:1.8;"><span style="">회사 C는 관계기업 K에 대한 투자를 보유하고 있다. 미배분 이익(undistributed profits)과 희석 이익(dilution gains)의 결과로 인해, 그 투자에 대한 세무기준액이 장부금액과 달라지게 된다. 따라서 일시적 차이가 발생하게 된다. 다음의 사실들 또한 이 예시에 관련된다:</span></p><p style="line-height:1.8;"><span style="">​</span></p><p style="line-height:1.8;"><span style="">경영진은 미배분 이익과 관련된 일시적 차이의 부분은 배당을 통해 환입될 것이라고 믿고 있다.</span></p><p style="line-height:1.8;"><span style="">경영진은 희석 이익과 관련된 일시적 차이의 부분은 투자지분이 처분되거나 청산되거나, 또는 피투자회사가 자본을 분배(distribution of capital)할 때에만 환입될 것이라고 믿고 있다.</span></p><p style="line-height:1.8;"><span style="">​</span></p><p style="line-height:1.8;"><span style="">경영진은 K에 대한 투자지분을 처분할 계획이 없다.</span></p><p style="line-height:1.8;"><span style="">C의 세법 관할 국가에서는, 자본의 분배는 미배분 이익의 배당과는 세무상 다르게 취급된다.</span></p><p style="line-height:1.8;"><span style="">​</span></p><p style="line-height:1.8;"><span style="">C는 상이한 회수 또는 결제 방식에 적용되는 서로 다른 세율을 고려하여 결과적으로 발생하는 이연법인세 부채를 측정한다. 예를 들어, 일시적 차이가 미배분 이익과 관련되고 배당을 통해 환입될 것으로 예상되는 경우, C는 미배분 이익으로부터의 배당에 적용되는 세율을 적용한다. 일시적 차이가 매각, 청산 또는 자본의 분배를 통해서만 환입될 것으로 예상되는 경우, C는 이에 해당하는 관련 세율을 적용한다.</span></p><p style="line-height:1.8;"><span style="">​</span></p><p style="line-height:1.8;"><span style="">※ 용어해설 : 희석이익</span></p><p style="line-height:1.8;"><span style="">​</span></p><p style="line-height:1.8;"><span style="">희석이익은 관계기업(associate) 또는 공동기업(joint venture)이 신주 발행 등으로 자본을 증가시키는 과정에서 투자자가 추가 출자를 하지 않아 지분율이 감소했지만, 그 관계기업이 발행한 신주를 제3자가 장부가보다 높은 금액으로 인수함으로써, 투자자의 기존 지분가치가 상승하게 되어 지분법 투자 장부에 반영되는 평가이익을 말한다.</span></p><p style="line-height:1.8;"><span style="">​</span></p><ul><li><p style="line-height:1.8;"><span style="">회사 A는 관계기업 B의 지분을 30% 보유하고 있으며, 장부가액은 30억이다.</span></p></li><li><p style="line-height:1.8;"><span style="">B가 제3자에게 신주를 발행하면서 A의 지분율은 25%로 낮아졌다 (희석됨).</span></p></li><li><p style="line-height:1.8;"><span style="">하지만 B가 발행한 신주 가격이 매우 높아, B의 전체 기업가치가 상승하였다.</span></p></li><li><p style="line-height:1.8;"><span style="">이에 따라 A가 보유한 25%의 지분가치는 상승하였고, 그 평가이익을 지분법손익으로 반영하게 된다. 이 금액이 희석이익이다.</span></p></li></ul><p style="line-height:1.8;"><span style="">​</span></p><p style="line-height:1.8;"><span style="">이 개념은 IFRS에서 직접적으로 “dilution gain”이라는 용어로 정의되지는 않지만, 일반적으로 다음과 같은 경우에 발생한 평가이익을 그렇게 부른다:</span></p><ul><li><p style="line-height:1.8;"><span style="">IFRS 10.B96–B99</span><span style=""> 및 </span><span style="">IAS 28.22–23</span><span style="">: 종속기업 또는 관계기업에 대한 지배력/중요한 영향이 변동된 경우 기존 지분을 공정가치로 재평가하는 원칙</span></p></li><li><p style="line-height:1.8;"><span style="">KPMG/IFRS Manual 및 EY 가이드라인에서는 이를 일반적으로 “gain on dilution” 또는 “step-down gain” 등으로 표현한다</span></p></li></ul></div></td></tr><tr><td colspan="2" rowspan="1" style="width: 17.54%; height: 32.25px;  background-color: #004e6a;"><div><p style="line-height:1.8;"><span style="color:#ffffff;">항목</span></p></div></td><td colspan="1" rowspan="1" style="width: 82.46%; height: 32.25px;  background-color: #004e6a;"><div><p style="line-height:1.8;"><span style="color:#ffffff;">설명</span></p></div></td></tr><tr><td colspan="2" rowspan="1" style="width: 17.54%; height: 16.13px;  background-color: #bdfbfa;"><div><p style="line-height:1.8;"><span style="">상황</span></p></div></td><td colspan="1" rowspan="1" style="width: 82.46%; height: 16.13px;  background-color: #bdfbfa;"><div><p style="line-height:1.8;"><span style="">관계기업이 제3자를 대상으로 유상증자를 실시함. 투자자는 불참하여 지분율이 낮아짐.</span></p></div></td></tr><tr><td colspan="2" rowspan="1" style="width: 17.54%; height: 16.12px;  background-color: #bdfbfa;"><div><p style="line-height:1.8;"><span style="">지분율</span></p></div></td><td colspan="1" rowspan="1" style="width: 82.46%; height: 16.12px;  background-color: #bdfbfa;"><div><p style="line-height:1.8;"><span style="">감소하나, 여전히 중요한 영향(significant influence) 유지됨 (IAS 28 적용 유지)</span></p></div></td></tr><tr><td colspan="2" rowspan="1" style="width: 17.54%; height: 16.13px;  background-color: #bdfbfa;"><div><p style="line-height:1.8;"><span style="">공정가치 평가</span></p></div></td><td colspan="1" rowspan="1" style="width: 82.46%; height: 16.13px;  background-color: #bdfbfa;"><div><p style="line-height:1.8;"><span style="">유상증자 시 발행가격이 높아져 피투자회사의 전체 가치 상승. 이에 따라 기존 보유지분의 내재가치 상승 발생</span></p></div></td></tr><tr><td colspan="2" rowspan="1" style="width: 17.54%; height: 16.12px;  background-color: #bdfbfa;"><div><p style="line-height:1.8;"><span style="">회계처리</span></p></div></td><td colspan="1" rowspan="1" style="width: 82.46%; height: 16.12px;  background-color: #bdfbfa;"><div><p style="line-height:1.8;"><span style="">기존 보유지분의 장부가액과 증자 후 평가금액 간의 차이를 지분법손익에 인식하는 경우 발생하는 이익이 희석이익(dilution gain)</span></p></div></td></tr></tbody></table>
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 14.52%; height: 40.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">회수 방식</span></p></div></td><td colspan="1" rowspan="1" style="width: 28.47%; height: 40.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">적용 대상 일시적차이</span></p></div></td><td colspan="1" rowspan="1" style="width: 57.01%; height: 40.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">실무판단의 근거</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 14.52%; height: 40.0px;  "><div><p style=""><span style="">배당</span></p></div></td><td colspan="1" rowspan="1" style="width: 28.47%; height: 40.0px;  "><div><p style=""><span style="">미배당이익 누적분</span></p></div></td><td colspan="1" rowspan="1" style="width: 57.01%; height: 40.0px;  "><div><p style=""><span style="">투자회사가 관계기업으로부터 반복적으로 배당을 수령하거나, 배당정책이 확정되어 있는 경우</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 14.52%; height: 40.0px;  "><div><p style=""><span style="">처분</span></p></div></td><td colspan="1" rowspan="1" style="width: 28.47%; height: 40.0px;  "><div><p style=""><span style="">지분평가손익(희석이익 등) 또는 자본성 증가분</span></p></div></td><td colspan="1" rowspan="1" style="width: 57.01%; height: 40.0px;  "><div><p style=""><span style="">처분계획 존재 또는 자본환급·청산 등의 계획이 명확한 경우</span></p></div></td></tr></tbody></table>
+
+투자지분의 outside basis difference는 회수 방식이 합리적으로 구분 가능하다면, 이를 배당 회수분과 처분 회수분으로 명확히 구분하여 서로 다른 세율로 이연법인세 부채를 측정할 수 있다.
+
+​
+
+이는 IFRS 기준서의 요구와 Big 4 실무 해석 모두에서 인정되는 방식이며, 특히 다음과 같은 상황에서 자주 적용
+
+​
+
+- 일부는 반복적인 배당으로 환수, 일부는 희석이익 등으로 회수 지연 예상
+- 지분율은 50% 미만이나 배당정책이 구체적으로 수립된 관계기업
+- IPO 등 지분처분 가능성 있는 기업
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 34.07%; height: 40.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">판단 기준</span></p></div></td><td colspan="1" rowspan="1" style="width: 32.59%; height: 40.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">배당으로 회수되는 부분</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.33%; height: 40.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">처분으로 회수되는 부분</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 34.07%; height: 40.0px;  "><div><p style=""><span style="">관계기업의 </span><span style="">배당 가능이익</span><span style=""> 수준</span></p></div></td><td colspan="1" rowspan="1" style="width: 32.59%; height: 40.0px;  "><div><p style=""><span style="">최근 3~5년 배당 이력, 현금흐름, 배당정책 등</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.33%; height: 40.0px;  "><div><p style=""><span style="">자본잉여금, 주식발행 초과금 등</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 34.07%; height: 40.0px;  "><div><p style=""><span style="">경영진의 전략</span></p></div></td><td colspan="1" rowspan="1" style="width: 32.59%; height: 40.0px;  "><div><p style=""><span style="">관계기업을 장기 보유하면서 이익 회수를 배당으로 기대</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.33%; height: 40.0px;  "><div><p style=""><span style="">보유지분 매각 또는 구조조정 계획 보유</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 34.07%; height: 40.0px;  "><div><p style=""><span style="">회계상 </span><span style="">장부금액 구성</span></p></div></td><td colspan="1" rowspan="1" style="width: 32.59%; height: 40.0px;  "><div><p style=""><span style="">미배당 이익으로 인한 장부가 증가분</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.33%; height: 40.0px;  "><div><p style=""><span style="">희석이익, 공정가치 평가손익 반영분</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 34.07%; height: 40.0px;  "><div><p style=""><span style="">세무상 </span><span style="">자산의 세무기준액</span></p></div></td><td colspan="1" rowspan="1" style="width: 32.59%; height: 40.0px;  "><div><p style=""><span style="">배당소득으로 회수될 항목</span></p></div></td><td colspan="1" rowspan="1" style="width: 33.33%; height: 40.0px;  "><div><p style=""><span style="">처분손익 과세대상</span></p></div></td></tr></tbody></table>
+
+**■ 배당소득 익금불산입 규정**
+
+**​**
+
+한국 법인세법상 종속회사(즉, 100% 자회사 또는 일정 요건을 충족하는 계열회사)로부터 받는 배당금은 일정 요건을 충족시 익금불산입되므로, 해당 배당금에 대해서는 실질적으로 법인세가 부과되지 않는다. 따라서 이 경우, IAS 12상 이연법인세 부채를 인식하지 않거나, 실효세율 0%를 적용하는 것이 타당하며, outside basis difference에 대해 이연법인세 부채를 계상하지 않는 예외에 해당할 수 있다.
+
+​
+
+**■ 한국 법인세법상 종속회사 배당에 대한 익금불산입 규정****​**
+
+​
+
+**▶ 근거 법령**
+
+**​**
+
+**「법인세법 시행령」 제87조 (배당금 등의 익금불산입)**
+
+​
+
+주요 요지: 내국법인이 받는 배당금 중 다음 요건을 충족하면 전부 또는 일부를 익금에서 불산입함.
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 43.38%; height: 38.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">구분</span></p></div></td><td colspan="1" rowspan="1" style="width: 56.62%; height: 38.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">익금불산입 비율</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 43.38%; height: 40.0px;  "><div><p style=""><span style="">100% 자회사 (지분율 100%)</span></p></div></td><td colspan="1" rowspan="1" style="width: 56.62%; height: 40.0px;  "><div><p style=""><span style="">100% 익금불산입</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 43.38%; height: 40.0px;  "><div><p style=""><span style="">지분율 50% 초과~100% 미만</span></p></div></td><td colspan="1" rowspan="1" style="width: 56.62%; height: 40.0px;  "><div><p style=""><span style="">30% 익금불산입</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 43.38%; height: 40.0px;  "><div><p style=""><span style="">지분율 30% 초과~50% 이하</span></p></div></td><td colspan="1" rowspan="1" style="width: 56.62%; height: 40.0px;  "><div><p style=""><span style="">10% 익금불산입</span></p></div></td></tr></tbody></table>
+
+※ 단, 지배·종속관계 충족 및 보유기간 등의 요건 필요
+
+​
+
+IAS 12.39에서는 “투자지분의 회수로 인한 과세가 발생하지 않을 가능성이 높은 경우에는 이연법인세 부채를 인식하지 않는다.”고 하였으므로 피투자회사로부터 배당 시 익금불산입이 적용되어 과세되지 않는다면, 회수 방법에 따른 실효세율 0%이므로 대응되는 outside basis difference에 대해 이연법인세 부채를 인식할 필요 없음.
+
+​
+
+가령 A사가 B사의 100% 지분을 보유하고 있으며, B사가 배당할 경우 전액 익금불산입이 적용된다면A사 연결재무제표상 B사 투자지분의 outside basis difference 존재. 그러나 회수 방법이 ‘배당’이고, 세법상 해당 배당이 전액 비과세(익금불산입)이므로 이 경우 A사는 해당 일시적차이에 대해 이연법인세 부채를 인식하지 않음
+
+> For example, paying a dividend may reverse a temporary difference associated with an investment in a subsidiary. It may also generate a dividend credit or other tax benefit for the parent. In our view, the tax effect of the reversal of the temporary difference should be considered net of the tax benefit related to the dividend.
+> 
+> KPMG, Insight into IFRS
+
+**■실효세율 적용 정리**
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">지분율</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">익금불산입 비율</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">적용 가능한 실효세율</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  background-color: #004e6a;"><div><p style=""><span style="color:#ffffff;">이연법인세 인식 여부</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">100%</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">100% 익금불산입</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">0%</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">인식하지 않음</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">50~100%</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">30% 익금불산입</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">24.2% × 70% ≒ 16.94%</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">인식하되 실효세율 적용</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">30~50%</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">10% 익금불산입</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">24.2% × 90% ≒ 21.78%</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">인식하되 실효세율 적용</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">30% 이하</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">익금불산입 불가</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">24.2%</span></p></div></td><td colspan="1" rowspan="1" style="width: 25.0%; height: 40.0px;  "><div><p style=""><span style="">전액 인식</span></p></div></td></tr></tbody></table>
+
+※ 익금불산입이 전액 가능하면 실효세율 0%, 부분적이면 해당 실효세율을 적용하여 측정 가능
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 100.0%; height: 129.0px;  background-color: #bdfbfa;"><div><p style="line-height:1.8;"><span style="">한국 법인세법상 종속회사로부터의 배당이 익금불산입 대상이라면, 해당 회수 방식(배당)에 대해 이연법인세 부채를 인식할 필요가 없거나, 실효세율 0%로 간주해야 하며, 지분율에 따라 익금불산입 비율이 정해지므로, 실제 이연법인세 측정 시 이를 고려한 실효세율을 반영해야 한다.</span></p></div><div><p style="line-height:1.8;"><span style="">이는 IAS 12.51B–51C에서 요구하는 "회수 방식에 따른 적절한 세율 적용" 원칙과 정확히 일치한다.</span></p></div></td></tr></tbody></table>
+
+​

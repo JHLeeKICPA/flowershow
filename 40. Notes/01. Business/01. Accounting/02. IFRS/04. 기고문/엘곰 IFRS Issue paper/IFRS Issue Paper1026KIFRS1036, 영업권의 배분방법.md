@@ -1,0 +1,60 @@
+---
+title: "[IFRS Issue Paper1026]KIFRS1036, 영업권의 배분방법"
+acounting_standard: "IFRS"
+document_type: "기고문"
+source: "엘곰"
+url: "https://contents.premium.naver.com/busymoon/kicpakpmg/contents/250814105256030qy"
+---
+![](https://n2.news.naver.com/l.gif?type=content)**1026**
+
+**● 영업권의 배분(Allocation of Goodwill)**
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 99.99%; height: 129.0px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">영업권 배분은 인수로 인한 시너지가 발생하는 CGU에 합리적 기준에 따라 배분해야 하며, IAS 36은 특정 방법을 강제하지 않는다. 배분방법으로는 ‘with or without’ 방식, 식별가능 순자산 공정가치 비율, CGU 공정가치 비율, 그리고 시너지 관련 지표 비율 등이 있다. 선택한 방법은 인수 사실관계와 시너지 구조를 반영해야 하며, 일관성 있게 적용·문서화해야 한다.</span></p></div></td></tr></tbody></table>
+
+**■ EXAMPLE A – 영업권의 배분 (1)**
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 99.99%; height: 129.0px;  background-color: #b0f1ff;"><div><p style="line-height:1.8;"><span style="">M 회사는 특수 전자 장비의 제조업체이다. M 회사는 주요 경쟁사 중 하나인 N 회사를 인수하며, N 회사는 다른 지리적 지역에서 영업을 하고 있다. 인수 전략의 일환으로, M 회사는 점진적으로 N 회사의 고객을 M 회사의 제품으로 전환할 계획이다. M 회사는 N 회사의 브랜드나 제품 라인을 지원할 계획이 없다. M 회사는 N 회사로부터 취득한 자산(그 브랜드와 제품을 포함)을 사용할 계획인데, 방어적인 방식과 함께 시장 참여자가 보게 될 최고 및 최선의 사용(highest and best use)에 따라 자산의 공정가치를 평가할 예정이다.</span></p></div><div><p style="line-height:1.8;"><span style="">​</span></p></div><div><p style="line-height:1.8;"><span style="">다른 사정이 없는 경우, M 회사가 따를 수 있는 한 가지 접근방법은 </span><span style=""><b>N 회사의 고객과 관련된 시너지 효과를 취득하는 데서 이익을 얻을 것으로 예상되는 기존 CGU에 영업권의 대부분을 배분하는 것이다. N 회사의 브랜드와 영업은 수명이 짧을 것이므로, M 회사는 N 회사를 사업결합을 통해 취득하면서 발생하는 영업권을 거의 또는 전혀 N 회사의 CGU에 배분하지 않는다.</b></span></p></div></td></tr></tbody></table>
+
+Global Firm의 view는 영업권의 배분은 일반적으로 예상되는 시너지 효과뿐만 아니라 **인수자의 독립적(stand-alone) 영업권도 고려해야 한다**고 본다.
+
+​
+
+인수자가 수행한 인수 전 분석은 영업권을 CGU에 배분하는 데 유용할 수 있다. 이 분석은 인수로부터 발생할 것으로 예상되는 시너지 효과의 원동력을 식별할 수 있으며, 예를 들어 다음과 같은 증분이익(incremental profits)이 포함될 수 있다.
+
+​
+
+• 지적 재산권 시너지 – 예: 인수자가 **피취득기업의 특허 기술을 사용하여 자사의 제품 개발을 향상**시키는 경우
+
+• 매출 시너지 – 예: **교차판매 기회,** 신규 시장 진입 또는 신규 유통채널 접근
+
+• 비용 절감 시너지 – 예: 결합된 기업의 더 큰 규모로 인해 **생산능력 활용 증대,** 구매 비용(또는 관리비) 절감
+
+• 기타 시너지 – 예: 공동 영업 인력 사용, 공동 마케팅, 숙련된 인력의 배치
+
+​
+
+**IAS 36은 영업권을 CGU에 배분하는 구체적인 방법을 규정하지 않는다**. 상황에 따라 각 CGU에 영업권을 배분하는 데 적절한 다양한 방법이 가능하며, 그 예시는 다음과 같다.
+
+​
+
+• **인수 전과 후의 CGU 공정가치 차이에 기반하여 – 이른바 ‘with or without’ 방법**
+
+• **각 CGU 내 식별 가능한 순자산의 공정가치 비율에 기반하여**
+
+• **CGU의 상대적 공정가치에 기반하여**
+
+• 기타 관련 지표의 비율에 기반하여 – 예를 들어, 영업권이 피취득기업의 숙련된 인력에서 발생하는 경우, 인수 후 그룹 전체에서 해당 인력이 배치되는 비율에 따라 영업권을 배분할 수 있다.
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 99.99%; height: 129.0px;  background-color: #b0f1ff;"><div><p style="line-height:1.8;"><span style="">🟡 1. “With or Without” Method (인수 전·후 공정가치 차이 기반)</span></p><p style="line-height:1.8;"><span style="">​</span></p><ul><li><p style="line-height:1.8;"><span style=""><b>개념 </b></span><span style="">: 인수 전 CGU의 공정가치와 인수 후 CGU의 공정가치를 비교하여 그 차이를 영업권으로 본 뒤, 해당 차액을 배분하는 방식. 즉, “그 CGU가 인수 없이(without) 얼마의 가치였는가”와 “인수 후(with) 얼마가 되었는가”의 차이이다.</span></p></li><li><p style="line-height:1.8;"><span style=""><b>적용상황</b></span><span style=""> : 시너지가 명확하게 측정 가능하고, 인수 전·후 공정가치 산정이 가능한 경우. 주로 시장가치 기반 평가가 가능한 CGU에 적합</span></p></li><li><p style="line-height:1.8;"><span style=""><b>장점 </b></span><span style="">: 시너지 효과를 금액으로 직접 측정 가능, 시장참여자 관점에서 배분이 합리적</span></p></li><li><p style="line-height:1.8;"><span style=""><b>단점</b></span><span style=""> : 인수 전·후 공정가치 측정이 어려운 경우 적용 곤란, 시너지 외의 기타 요인(시장 상황 변화 등)이 차이에 섞일 수 있음</span></p></li></ul></div></td></tr></tbody></table>
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 100.0%; height: 129.0px;  background-color: #b0f1ff;"><div><p style="line-height:1.8;"><span style="">🟡 2. 식별가능 순자산 공정가치 비율 기반</span></p><p style="line-height:1.8;"><span style="">​</span></p><ul><li><p style="line-height:1.8;"><span style=""><b>개념 </b></span><span style="">: 각 CGU가 보유한 식별가능 순자산의 공정가치 비율을 기준으로 영업권을 배분(예: CGU A 순자산 60, CGU B 순자산 40 → 영업권 100이라면 A에 60, B에 40 배분)</span></p></li><li><p style="line-height:1.8;"><span style=""><b>적용 상황</b></span><span style=""> : 각 CGU의 자산·부채 공정가치 평가가 용이하고, 시너지 기여도가 순자산 규모와 비례한다고 판단되는 경우</span></p></li><li><p style="line-height:1.8;"><span style=""><b>장점</b></span><span style=""> : 계산이 단순하고, 재무상태표 정보와 연계, 순자산 규모가 클수록 시너지 흡수 여력도 크다는 논리와 부합</span></p></li><li><p style="line-height:1.8;"><span style=""><b>단점</b></span><span style=""> : </span><span style=""><b>순자산 규모가 시너지 기여도를 정확히 반영하지 못할 수 있음, </b></span><span style="">무형자산이 많은 사업부와 유형자산 위주의 사업부 간 왜곡 가능</span></p></li></ul></div></td></tr></tbody></table>
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 100.0%; height: 129.0px;  background-color: #b0f1ff;"><div><p style="line-height:1.8;"><span style=""><b>🟡 CGU 공정가치 비율 기반</b></span></p><p style="line-height:1.8;"><span style="">​</span></p><ul><li><p style="line-height:1.8;"><span style=""><b>개념</b></span><span style=""> : 각 </span><span style=""><b>CGU 전체의 공정가치 비율로 영업권을 배분</b></span><span style="">, 순자산이 아닌, 영업권 포함 전의 전체 기업가치를 기준</span></p></li><li><p style="line-height:1.8;"><span style=""><b>적용 상황</b></span><span style=""> : 시장기반 평가가 가능하고, 각 CGU의 전체 기업가치(수익창출능력)가 시너지와 직접 연관된 경우</span></p></li><li><p style="line-height:1.8;"><span style=""><b>장점</b></span><span style=""> : 미래 현금흐름 창출능력을 직접 반영, 사업부별 수익성 차이를 배분에 반영 가능</span></p></li><li><p style="line-height:1.8;"><span style=""><b>단점</b></span><span style=""> : CGU 공정가치 산정에 많은 추정이 필요, 시장자료 부족 시 신뢰성 문제</span></p></li></ul></div></td></tr></tbody></table>
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 100.0%; height: 129.0px;  background-color: #b0f1ff;"><div><p style="line-height:1.8;"><span style=""><b>🟡 기타 관련 지표 비율 기반</b></span></p><p style="line-height:1.8;"><span style=""><b>​</b></span></p><ul><li><p style="line-height:1.8;"><span style=""><b>개념 </b></span><span style="">: </span><span style=""><b>특정 시너지 원천과 직접적으로 관련된 지표</b></span><span style="">를 기준으로 배분(예: 인력 시너지가 크다면 숙련 인력 수, 고객 기반이 핵심이면 고객 수 또는 계약 규모)</span></p></li><li><p style="line-height:1.8;"><span style=""><b>적용 상황</b></span><span style=""> : 시</span><span style=""><b>너지의 주요 원인이 한 가지 지표로 명확히 측정 가능한 경우</b></span><span style="">(예: R&amp;D 인력 흡수, 대규모 고객 리스트 통합 등)</span></p></li><li><p style="line-height:1.8;"><span style=""><b>장점 </b></span><span style="">: </span><span style=""><b>시너지 원천을 직접 반영</b></span><span style="">, 비재무적 지표를 활용하여 실질 기여도를 배분</span></p></li><li><p style="line-height:1.8;"><span style=""><b>단점 </b></span><span style="">: 지표 선정에 주관 개입 가능, 단일 지표가 모든 시너지 효과를 반영하지 못할 수 있음</span></p></li></ul></div></td></tr></tbody></table>
+
+**■ EXAMPLE B – 영업권의 배분 (2)**
+
+<table style=""><tbody><tr><td colspan="6" rowspan="1" style="width: 100.0%; height: 32.25px;  background-color: #b0f1ff;"><div><p style="line-height:1.8;"><span style="">P 회사는 S 회사를 100에 인수하면서, </span><span style=""><b>S의 독립가치(stand-alone value)를 70으로 추정</b></span><span style="">하였다. P 회사는 이번 거래를 통해 </span><span style=""><b>기존의 두 CGU인 C와 D에서 잠재적인 시너지를 실현할 것으로 기대</b></span><span style="">한다. S는 단일 CGU로 구성되어 있으며 </span><span style=""><b>식별가능 순자산이 60이므로, 인수 시 영업권은 40(=100 – 60)으로 발생</b></span><span style="">한다.</span></p></div><div><p style="line-height:1.8;"><span style="">​</span></p></div><div><p style="line-height:1.8;"><span style="">이 예제에서, </span><span style=""><b>P 회사는 영업권을 먼저 S에 귀속되는 독립가치 기준으로 CGU에 배분하고, 나머지 영업권은 S와 C, D 간의 시너지에 귀속하는 것이 적절하다고 결론 내린다.</b></span></p></div><div><p style="line-height:1.8;"><span style=""><b>​</b></span></p></div><div><p style="line-height:1.8;"><span style=""><b>따라서 P 회사는 다음과 같이 영업권을 배분한다.</b></span></p></div><div><p style=""><span style=""><b>CGU S: 10 (70 – 60)</b></span></p></div><div><p style="line-height:1.8;"><span style=""><b>CGU C와 D: 30 (100 – 70)</b></span></p></div><div><p style="line-height:1.8;"><span style=""><b>​</b></span></p></div><div><p style="line-height:1.8;"><span style=""><b>이 예제에서, CGU C와 D에 귀속되는 영업권 30을 배분하기 위해, P 회사는 ‘with or without’ 방법을 다음과 같이 사용한다. 인수 전과 인수 후의 공정가치 차이는 인수로부터 발생한 시너지 효과를 반영한다. 따라서 P 회사는 남은 영업권 30을, 인수로 인해 발생한 공정가치 증가분의 상대적 비율에 따라 CGU C와 D에 배분한다</b></span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 16.67%; height: 32.25px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">​</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.66%; height: 32.25px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">인수 전 공정가치</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.67%; height: 32.25px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">인수 후 공정가치</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.67%; height: 32.25px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">차이</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.67%; height: 32.25px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">총합 대비 비율</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.66%; height: 32.25px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">영업권</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 16.67%; height: 16.13px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">CGU C</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.66%; height: 16.13px;  background-color: #b0f1ff;"><div><p style=""><span style="">80</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.67%; height: 16.13px;  background-color: #b0f1ff;"><div><p style=""><span style="">100</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.67%; height: 16.13px;  background-color: #b0f1ff;"><div><p style=""><span style="">20</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.67%; height: 16.13px;  background-color: #b0f1ff;"><div><p style=""><span style="">40%</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.66%; height: 16.13px;  background-color: #b0f1ff;"><div><p style=""><span style="">12</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 16.67%; height: 16.12px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">CGU D</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.66%; height: 16.12px;  background-color: #b0f1ff;"><div><p style=""><span style="">120</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.67%; height: 16.12px;  background-color: #b0f1ff;"><div><p style=""><span style="">150</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.67%; height: 16.12px;  background-color: #b0f1ff;"><div><p style=""><span style="">30</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.67%; height: 16.12px;  background-color: #b0f1ff;"><div><p style=""><span style="">60%</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.66%; height: 16.12px;  background-color: #b0f1ff;"><div><p style=""><span style="">18</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 16.67%; height: 16.13px;  background-color: #003960;"><div><p style=""><span style="color:#ffffff;">합계</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.66%; height: 16.13px;  background-color: #b0f1ff;"><div><p style=""><span style="">200</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.67%; height: 16.13px;  background-color: #b0f1ff;"><div><p style=""><span style="">250</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.67%; height: 16.13px;  background-color: #b0f1ff;"><div><p style=""><span style="">50</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.67%; height: 16.13px;  background-color: #b0f1ff;"><div><p style=""><span style="">100%</span></p></div></td><td colspan="1" rowspan="1" style="width: 16.66%; height: 16.13px;  background-color: #b0f1ff;"><div><p style=""><span style="">30</span></p></div></td></tr></tbody></table>
+
+**​**

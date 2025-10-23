@@ -1,0 +1,90 @@
+---
+title: "[IFRS Issue Paper_38], KIFRS1012, 사업결합시 발생한 영업권에 대한 이연법인세 회계처리"
+acounting_standard: "IFRS"
+document_type: "기고문"
+source: "엘곰"
+url: "https://contents.premium.naver.com/busymoon/kicpakpmg/contents/240302215857843gi"
+---
+![](https://n2.news.naver.com/l.gif?type=content)38● 회계상 영업권과 세무상 영업권의 차이
+
+​
+
+(1) 영업권(KIFRS1103 vs. 법인세법)​​
+
+​
+
+영업권(goodwill)의 회계적 의미는 IFRS에서는 KIFRS1103(사업결합)에서 정의한다. 반면 세무상 개념은 법인세법에서 정의하고 있다. 법인세법에서는 영업권을 사업양수도 영업권과 구조조정 영업권으로 구분하는데, 명칭과 상관없이 별도로 명확하게 식별하여 거래되는 영업권만 자산으로 인정한다고 이해하면 편하다. 그러나 회계에서는 영업권은 취득대가와 피취득자의 순자산 공정가치와의 차이 즉, 잔여가치(residual value)이므로 세무상 인정받을 수 없는 자산이다. 또한, 영업권이 계산되기 전 식별가능한 무형자산(고객관계, 브랜드가치, 네트웤 가치 등)이 계상될 수 있는데 통상 DCF(Discount Cash Flow)법에 의해 공정가치로 측정된 금액은 취득대가가 개별적으로 산정되어 거래된 것으로 볼 수 있으나 세무상 인정되는 명확한 권리(상표권과 같은 licence)가 아니므로 역시 세무상 인정되지 않는 무형자산이다.
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 49.78%; height: 21.5px;  background-color: #bdfbfa;"><div><p style="line-height:2.0;"><span style="">KIFRS1103.사업결</span><span style="">합</span></p></div></td><td colspan="2" rowspan="1" style="width: 50.22%; height: 21.5px;  background-color: #bdfbfa;"><div><p style="line-height:2.0;"><span style="">법인세법</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 49.78%; height: 21.5px;  background-color: #bdfbfa;"><div><p style="line-height:2.0;"><span style="">32.영업권이나 염가매수차익의 인식과 측정</span></p></div><div><p style="line-height:2.0;"><span style="">취득자는 취득일 현재 다음 (1)이 (2)보다 클 경우에 그 초과금액을 측정하여 영업권으로 인식한다.</span></p></div><div><p style="line-height:2.0;"><span style="">(1) 다음의 합계금액</span></p></div><div><p style="line-height:2.0;"><span style="">(가) 이 기준서에 따라 측정한 이전대가로서 일반적으로 취득일의 공정가치(</span><span style="">문단 37 </span><span style="">참조)</span></p></div><div><p style="line-height:2.0;"><span style="">(나) 이 기준서에 따라 측정한 피취득자에 대한 비지배지분의 금액</span></p></div><div><p style="line-height:2.0;"><span style="">(다) 단계적으로 이루어지는 사업결합(</span><span style="">문단 41과 42 </span><span style="">참조)의 경우에 취득자가 이전에 보유하고 있던 피취득자에 대한 지분의 취득일의 공정가치</span></p></div><div><p style="line-height:2.0;"><span style="">(2) 이 기준서에 따라 취득일에 측정한 식별할 수 있는 취득 자산과 인수 부채의 순액</span></p></div></td><td colspan="2" rowspan="1" style="width: 50.22%; height: 21.5px;  background-color: #bdfbfa;"><div><p style="line-height:2.0;"><span style="">① 사업양수도 영업권</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">시행규칙 </span><span style="">제12조(감가상각자산의 범위) ①</span><span style="">영</span><span style=""> </span><span style="">제24조제1항제2호가목</span><span style="">에 따른 영업권에는 다음 각 호의 금액이 포함되는 것으로 한다. &lt;개정 2015. 10. 30., 2021. 10. 28.&gt;</span></p></div><div><p style="line-height:2.0;"><span style="">1. 사업의 양도ㆍ양수과정에서 양도ㆍ양수자산과는 별도로 양도사업에 관한 허가ㆍ인가 등 법률상의 지위, 사업상 편리한 지리적 여건, 영업상의 비법, 신용ㆍ명성ㆍ거래처 등 영업상의 이점 등을 고려하여 적절한 평가방법에 따라 유상으로 취득한 금액</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">② 기업구조조정 영업권</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">법인세법 제44조의2(합병 시 합병법인에 대한 과세)</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">③ 합병법인은 제1항에 따라 피합병법인의 자산을 시가로 양도받은 것으로 보는 경우에 피합병법인에 지급한 양도가액이 합병등기일 현재의 순자산시가를 초과하는 경우로서 </span><span style="">대통령령</span><span style="">으로 정하는 경우에는 그 차액을 </span><span style="">제60조제2항제2호</span><span style="">에 따른 세무조정계산서에 계상하고 합병등기일부터 5년간 균등하게 나누어 손금에 산입한다.</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">법인세법 시행령 제80조의 3</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">①합병법인은 </span><span style="">법</span><span style=""> </span><span style="">제44조의2제2항</span><span style="">에 따라 양도가액이 순자산시가에 미달하는 경우 그 차액(이하 “합병매수차익”이라 한다)을 익금에 산입할 때에는 합병등기일이 속하는 사업연도부터 합병등기일부터 5년이 되는 날이 속하는 사업연도까지 다음 산식*에 따라 계산한 금액을 산입한다. 이 경우 월수는 역에 따라 계산하되 1월 미만의 일수는 1월로 하고, 이에 따라 합병등기일이 속한 월을 1월로 계산한 경우에는 합병등기일부터 5년이 되는 날이 속한 월은 계산에서 제외한다.</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">* 합병매수차익 X (사업연도 월수 ÷ 60월)</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">② </span><span style="">법</span><span style=""> </span><span style="">제44조의2제3항</span><span style="">에서 “대통령령으로 정하는 경우”란 합병법인이 피합병법인의 상호ㆍ거래관계, 그 밖의 영업상의 비밀 등에 대하여 사업상 가치가 있다고 보아 대가를 지급한 경우를 말한다.</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">③ </span><span style="">법</span><span style=""> </span><span style="">제44조의2제3항</span><span style="">에 따라 양도가액이 순자산시가를 초과하는 경우 그 차액(이하 “합병매수차손”이라 한다)에 대한 손금산입액 계산, 산입방법 등에 관하여는 제1항을 준용한다.</span></p></div></td></tr></tbody></table>
+
+(2) 영업권 후속회계처리(KIFRS1036, 법인세법)​​
+
+​
+
+IFRS상 영업권은 비한정내용연수(indefinite useful life)를 가진 무형자산이므로 취득 후에 상각(amortization)되지 않는다. 다만, 현금창출단위(CGU ; Cash Generation Unit)가 창출하는 미래현금흐름의 양이 취득당시보다 감소하는 경우 영업권은 손상(impairment)처리될 뿐이다. 법인세법에서는 세무상 인정되는 명확한 권리의 성격을 가진 무형자산에 대해서는 5년간 균등 또는 정액을 손비인정 하도록 규정하고 있다. 따라서 사업결합시 발생하는 무형자산과 영업권은 일시적차이를 발생시킨다.
+
+<table style=""><tbody><tr><td colspan="1" rowspan="1" style="width: 49.78%; height: 21.5px;  background-color: #bdfbfa;"><div><p style="line-height:2.0;"><span style="">KIFRS1036.자산손상</span></p></div></td><td colspan="2" rowspan="1" style="width: 50.22%; height: 21.5px;  background-color: #bdfbfa;"><div><p style="line-height:2.0;"><span style="">법인세법 시행규칙 제12조[감가상각자산의 범위]</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 49.78%; height: 21.5px;  background-color: #bdfbfa;"><div><p style="line-height:2.0;"><span style="">손상검사의 시기</span></p></div><div><p style="line-height:2.0;"><span style="">96. 영업권이 배분된 현금창출단위는 매년 손상검사를 한다. 손상검사를 매년 같은 시기에 수행한다면 회계연도 중 어느 때에라도 할 수 있다. 서로 다른 현금창출단위는 각기 다른 시점에 손상검사를 할 수도 있다. 다만 현금창출단위에 배분한 영업권의 일부나 전부를 해당 회계연도 중에 일어난 사업결합에서 취득한 경우에는, 해당 회계연도 말 전에 해당 현금창출단위를 손상검사 한다.*</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">* 영업권은 내용연수가 무한이 무형자산으로 상각하지 않음</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">​​</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div></td><td colspan="2" rowspan="1" style="width: 50.22%; height: 21.5px;  background-color: #bdfbfa;"><div><p style="line-height:2.0;"><span style="">제15조(내용연수와 상각률) </span><span style="">①</span><span style="">영</span><span style=""> </span><span style="">제28조</span><span style="">제1항</span><span style="">제1호</span><span style="">에서 “기획재정부령으로 정하는 시험연구용자산”이란 </span><span style="">별표 2</span><span style="">에 규정된 자산을 말한다. </span><span style="">&lt;개정 2008. 3. 31., 2019. 3. 20.&gt;</span></p></div><div><p style="line-height:2.0;"><span style="">②</span><span style="">영</span><span style=""> </span><span style="">제28조</span><span style="">제1항</span><span style="">제1호</span><span style="">에서 “기획재정부령으로 정하는 내용연수”란 </span><span style="">별표 2</span><span style=""> 및 </span><span style="">별표 3</span><span style="">에 규정된 내용연수*를 말하고, 같은 호에서 “기획재정부령으로 정하는 상각방법별 상각률”이란 </span><span style="">별표4</span><span style="">에 규정된 상각률을 말한다. </span><span style="">&lt;개정 2008. 3. 31., 2019. 3. 20.&gt;</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">* 영업권 5년 (정액법)</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">제44조의2(합병 시 합병법인에 대한 과세) </span><span style="">③ 합병법인은 제1항에 따라 피합병법인의 자산을 시가로 양도받은 것으로 보는 경우에 피합병법인에 지급한 양도가액이 합병등기일 현재의 순자산시가를 초과하는 경우로서 </span><span style="">대통령령</span><span style="">으로 정하는 경우에는 그 차액을 </span><span style="">제60조</span><span style="">제2항</span><span style="">제2호</span><span style="">에 따른 세무조정계산서에 계상하고 합병등기일부터 </span><span style="">5년간 균등하게 나누어</span><span style=""> 손금에 산입한다.</span></p></div></td></tr></tbody></table>
+
+● 세무조정과 이연법인세
+
+​
+
+(1) 회계상 영업권과 무형자산의 손비 인정 여부
+
+​
+
+가. 세무상 구조조정에 해당하는 사업결합시 영업권 세무조정과 이연법인세​​
+
+​
+
+① 회계상 영업권 개념은 취득대가(consideration transferred)가 피취득자의 식별가능한 순자산 공정가치를 초과하는 금액이다. 여기서 식별가능한 순자산에는 영업권 외 무형자산(고객관계, 브랜드가치, 네트웍가치 등)으로 DCF 등의 가치평가 방법으로 평가산정된 금액을 포함한다. 따라서 무형자산은 별도로 평가되는 것이 아니고 잔여가치(residual value)이다.
+
+​
+
+② 그러나 법인세법에서는 잔여가치 개념의 무형자산을 자산(손비)으로 인정하지 않는다. 따라서 DCF 등의 가치평가 방법으로 평가산정된 영업권과과 영업권 외 무형자산(고객관계, 브랜드가치, 네트웍가치 등)은 세무상 자산으로 인정되지 않는다. 따라서 회계상 순자산과 세무상 순자산의 차이 즉, 일시적차이가 발생한다.
+
+​
+
+③ 회계상 영업권은 세무상 부인되므로 회계상 영업권 금액은 손금산입(△유보), 손금불산입(기타)로 세무조정된다. 이 때, 손금불산입(기타)로 처리하는 이유는 회계상 이전대가가 자본(자본금 및 자본잉여금)으로 처리되었기 때문이다. 손금산입(△유보)된 영업권은 일시적차이에 해당하여 반대조정 될 것 같지만 KIFRS1103 문단 15에서는 영업권에 대해 이연법인세부채를 계상하지 않는다고 규정한다.
+
+​
+
+④ 영업권에 대해 이연법인세부채를 계상하지 않는 것은 영업권이 잔여가치(residual value)로 측정되기 때문이다. 잔여가치에 대해 이연법인세부채를 인식할 경우 이는 다시 영업권을 증가시키고 이연법인세부채가 다시 증가하는 순환현상이 발생한다. 영업권은 내용연수가 무한인 무형자산으로 상각을 하지 않는다. 다만, 영업권을 창설하는 현금창출단위(CGU ; Cash Generating Unit)의 현금흐름 창출능력이 사업결합시점에 비해 하락한 경우에 한하여 회계상 손상(Impairment)이 발생할 수 있다. 그러나 손상가능성이 높은(probable)한 시점에 이르러 이연법인세부채를 인식하고 손상되는 시점에 이연법인세자산(부채감소)을 인식하는 회계처리를 하지는 않는다.
+
+​
+
+⑤ 사업결합시 영업권의 회계상 장부가액과 세무상 장부가액에 차이가 발생하지만 영업권은 잔여가치(residual value)이므로 이연법인세부채를 인식하지 않는다고 하였다. 이후 영업권이 손상되면 회계상 장부가액이 감소하면서 새로운 회계상 순자산과 세무상 순자산의 차이가 발생한다. 그러나 영업권은 당초부터 이연법인세부채 면제(exemption)대상이므로 이후 기간에 회계상 순자산 장부가액이 변동된다고 하더라도 그 시점에 이연법인세부채를 인식하지는 않는다. 이 내용은 KIFRS1012, 21A에서 언급하고 있다.
+
+> 21A. 영업권의 최초인식에서 발생하였기 때문에 인식되지 아니한 이연법인세부채가 향후 감소되는 경우에도 영업권의 최초인식으로부터 발생한 것으로 간주하여 문단 15(1)에 따라 인식하지 않는다. 예를 들어, 사업결합에서 100원의 영업권을 인식하는데 그 세무기준액은 영(0)인 경우 문단 15(1)에 따라 이연법인세부채를 인식하지 아니 한다. 만일 당해 영업권에 대하여 20원의 손상차손을 인식한다면, 영업권과 관련된 가산할 일시적차이는 100원에서 80원으로 감소되고, 그 결과 미인식된 이연법인세부채의 가치가 감소한다. 당해 미인식된 이연법인세부채의 가치 감소는 영업권의 최초인식과 관련된 것으로 보아 문단 15(1)에 따라 인식하지 아니한다.
+> 
+> KIFRS1012.법인세
+
+![](https://dthumb-phinf.pstatic.net/dthumb?src=%22https://postfiles.pstatic.net/MjAyNDAxMjhfMTAy/MDAxNzA2NDUwMzczNDU5.LcQn0jEJ9dXOiFA3stFaOIFsr3CGuet7H21Lmfm0Oq8g.5kNnWbOtxoXO_1zq2U-SEJfYkmvOxYPuSSjGOCFVfGIg.JPEG.busymoon/IMG%EF%BC%BF20240128%EF%BC%BF204410%EF%BC%BF962.jpg?type=w773%22&service=scs&type=w800)
+
+나. 세무상 사업양수도에 해당하는 사업결합시 영업권 세무조정과 이연법인세​
+
+​
+
+① 사업양수도시 합리적인 평가방법에 근거하여 산출되고 개별적으로 거래된 무형자산은 세무상 5년간 손비인정된다. 그러나 그러한 License(상표권 등)과 같이 법적으로 명확하게 식별되는 권리에 국한되며 고객관계(customer relationship), 네트워크(network), 브랜드가치(brand)는 해당되지 않는다. 따라서 취득시점에 회계상 순자산과 세무상 순자산에 차이가 발생한다. 이는 이연법인세부채를 발생시킬 것이다.
+
+​
+
+② 무형자산은 비한정 내용연수 또는 한정 내용연수를 가질 수 있다. 만약 License(상표권 등)과 같이 법적으로 명확하게 식별되는 권리의 가치를 신뢰성 있는 평가기관이 평가한 결과가 500인 경우, 이는 세무상 가액과 동일하다. 또한 5년간 매년 100까지 손금산입 한도를 가진다. 감가상각비는 기본적으로 결산조정이지만 이러한 무형자산은 예외적으로 신고조정까지 허용해 준다. 따라서 취득시점에 일시적차이를 발생시키지 않지만 이후에 결산상 상각되지 않더라도 세무상 5년간 균등액을 손금산입 하므로 일시적차이와 이연법인세를 발생시킨다. 비한정 내용연수를 가진 무형자산은 취득시점 이후 회계상 장부가액이 변동없더라도(except 손상) 세무상 순자산은 최초 500에서 상각액 100이 차감되어 400이 되므로 회계상 순자산과 세무상 순자산에 차이가 발생한다. 따라서 이연법인세부채 20(tax rate =20%가정)이 발생되는 것이다. 이를 이연법인세는 수익비용법이 아닌 자산부채법을 따른다고 표현하기도 한다.
+
+​
+
+③ 그러나 위①에서 언급한 바와 같이 KIFRS1103에 의한 취득법 회계처리시 인식되는 식별가능한 무형자산은 성격과 측정방식(초과이익법, 원가접근법, 설립전근법, 로열티절감법 등)이 영업권에서 특정 항목을 추출해 낸 것과 다를 바 없어 법적으로 특정기간에 한하여 권리를 인정받는 Licence와 달라 위 ①에서 언급한 신고조정되는 비한정 내용연수를 가진 무형자산에 해당하지 않는다. 신고조정 이전에 취득시점에 세무상자산으로 인정받지 않으므로 회계상 순자산과 세무상 순자산 간의 차이가 발생하여 이연법인세부채를 발생시킨다.
+
+​
+
+④ 위 ③에서 언급한 고객관계(customer relationship), 네트워크(network), 브랜드가치(brand) 등은 일반적으로 한정 내용연수를 가지므로 상각이 이루어 진다. 따라서 취득시점에 인식된 이연법인세부채는 상각되는 과정에서 상각된 비율만큼 환원된다.
+
+<table style=""><tbody><tr><td colspan="3" rowspan="1" style="width: 100.0%; height: 21.5px;  background-color: #003960;"><div><p style="line-height:2.0;"><span style="color:#ffffff;">영업권</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 29.87%; height: 21.5px;  background-color: #003960;"><div><p style="line-height:2.0;"><span style="color:#ffffff;">구분</span></p></div></td><td colspan="1" rowspan="1" style="width: 36.08%; height: 21.5px;  background-color: #003960;"><div><p style="line-height:2.0;"><span style="color:#ffffff;">구조조정</span></p></div></td><td colspan="1" rowspan="1" style="width: 34.05%; height: 21.5px;  background-color: #003960;"><div><p style="line-height:2.0;"><span style="color:#ffffff;">사업양수도</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 29.87%; height: 43.0px;  background-color: #003960;"><div><p style="line-height:2.0;"><span style="color:#ffffff;">회계상 순자산</span></p></div></td><td colspan="1" rowspan="1" style="width: 36.08%; height: 43.0px;  "><div><p style="line-height:2.0;"><span style="">500(잔여가치)</span></p></div></td><td colspan="1" rowspan="1" style="width: 34.05%; height: 43.0px;  "><div><p style="line-height:2.0;"><span style="">500(평가가액*)</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">* 세무상 영업권으로 지칭하지만 회계상 무형자산(브랜드가치, 네트워크, 고객관계 등)에 해당함</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 29.87%; height: 21.5px;  background-color: #003960;"><div><p style="line-height:2.0;"><span style="color:#ffffff;">세무상 순자산</span></p></div></td><td colspan="1" rowspan="1" style="width: 36.08%; height: 21.5px;  "><div><p style="line-height:2.0;"><span style="">-</span></p></div></td><td colspan="1" rowspan="1" style="width: 34.05%; height: 21.5px;  "><div><p style="line-height:2.0;"><span style="">500</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 29.87%; height: 2.69px;  background-color: #003960;"><div><p style="line-height:2.0;"><span style="color:#ffffff;">후속회계처리</span></p></div></td><td colspan="1" rowspan="1" style="width: 36.08%; height: 2.69px;  "><div><p style="line-height:2.0;"><span style="">비한정 내용연수</span></p></div><div><p style="line-height:2.0;"><span style="">상각 : X</span></p></div><div><p style="line-height:2.0;"><span style="">손상 : O</span></p></div></td><td colspan="1" rowspan="1" style="width: 34.05%; height: 2.69px;  "><div><p style="line-height:2.0;"><span style="">① 비한정 내용연수</span></p></div><div><p style="line-height:2.0;"><span style="">상각 : X</span></p></div><div><p style="line-height:2.0;"><span style="">손상 : O</span></p></div><div><p style="line-height:2.0;"><span style="">② 한정 내용연수</span></p></div><div><p style="line-height:2.0;"><span style="">상각 : O</span></p></div><div><p style="line-height:2.0;"><span style="">손상 : O</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 29.87%; height: 2.68px;  background-color: #003960;"><div><p style="line-height:2.0;"><span style="color:#ffffff;">세무조정</span></p></div></td><td colspan="1" rowspan="1" style="width: 36.08%; height: 2.68px;  "><div><p style="line-height:2.0;"><span style="">상각 : X (없음)</span></p></div><div><p style="line-height:2.0;"><span style="">손상 : O (없음)*</span></p></div><div><p style="line-height:2.0;"><span style="">​</span></p></div><div><p style="line-height:2.0;"><span style="">* 손상시 회계상장부가액과 세무상 장부가액의 차이가 발생하지만 취득시 이연법인세 대상 x → 후속기간 이연법인세 발생 x</span></p></div></td><td colspan="1" rowspan="1" style="width: 34.05%; height: 2.68px;  "><div><p style="line-height:2.0;"><span style="">① 비한정 내용연수</span></p></div><div><p style="line-height:2.0;"><span style="">상각 : X (없음)</span></p></div><div><p style="line-height:2.0;"><span style="">손상 : O (손금불산입)</span></p></div><div><p style="line-height:2.0;"><span style="">② 한정 내용연수</span></p></div><div><p style="line-height:2.0;"><span style="">상각 : O (손금불산입)</span></p></div><div><p style="line-height:2.0;"><span style="">손상 : O (손금불산입)</span></p></div></td></tr><tr><td colspan="1" rowspan="1" style="width: 29.87%; height: 5.38px;  background-color: #003960;"><div><p style="line-height:2.0;"><span style="color:#ffffff;">이연법인세부채</span></p></div></td><td colspan="1" rowspan="1" style="width: 36.08%; height: 5.38px;  "><div><p style="line-height:2.0;"><span style="">미계상</span></p></div></td><td colspan="1" rowspan="1" style="width: 34.05%; height: 5.38px;  "><div><p style="line-height:2.0;"><span style="">① 비한정 내용연수</span></p></div><div><p style="line-height:2.0;"><span style="">상각 : X (이연법인세부채)</span></p></div><div><p style="line-height:2.0;"><span style="">손상 : O (이연법인세부채)</span></p></div><div><p style="line-height:2.0;"><span style="">② 한정 내용연수</span></p></div><div><p style="line-height:2.0;"><span style="">상각 : O (이연법인세자산·부채)</span></p></div><div><p style="line-height:2.0;"><span style="">손상 : O (이연법인세부채)</span></p></div></td></tr></tbody></table>
+
+​
+
+● View & Opinion​​
+
+​
+
+같은 비한정내용연수(indefinite useful life)라 하더라도 영업권과 다른 무형자산은 세무조정과 이연법인세 회계처리에 차이가 있는데 그 이유는 영업권은 잔여가치(residual value)로 계상되는 반면 무형자산은 개별적으로 식별되고 측정되기 때문이다. 영업권은 후속기간에 상각(amortization)되지는 않지만 손상(impairment)될 수는 있다. 손상되는 경우는 회계상 순자산과 세무상 순자산에 차이가 발생한다. 그러나 영업권은 당초부터 이연법인세부채 계상이 면제(exemption)되므로 이후 기간에도 이연법인세부채를 발생시키지 않는다. 요약하면 영업권은 이연법인세와 아무런 관련이 없다고 간주하면 될 것이다. 반면 비한정 내용연수를 가진 무형자산중 법인세법에서 인정하는 license와 같은 명확한 법적권리는 취득시점에 회계상순자산과 세무상순자산에 차이가 없어 이연법인세를 발생시키지 않는다. 이러한 무형자산이 비한정 내용연수를 가진다면 상각되지 않지만 신고조정으로 세무조정 할 수 있다. 따라서 자산부채법에 근거하여 세무상순자산과 회계상순자산에 차이가 발생하므로 이연법인세 자산, 부채를 발생시킨다.
